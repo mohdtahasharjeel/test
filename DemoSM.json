@@ -1,0 +1,813 @@
+[
+    {
+        "section_type": "document_info",
+        "document_type": "rfp_target",
+        "document_id": "ef34e4e25a0d7d7b64b722dfb57b2e0f48f30fd2069b123508860a148389989a",
+        "document_name": "raw/rfp_target/00_RFQ Amend 1 NBRC Grants SaaS RFQ 03-31-23.pdf",
+        "document_source": "extracted",
+        "ingestion_datetime": "2024-01-18 07:56:58.553895+00:00",
+        "client_name": "NBRC",
+        "client_description": "Northern Border Regional Commission",
+        "document_sub_type": "RFQ",
+        "file_name": "00_RFQ Amend 1 NBRC Grants SaaS RFQ 03-31-23.pdf",
+        "related_document_name": "*",
+        "related_document_type": "rfpresponse",
+        "correlation_id": "bc71c3d1-383f-441c-8803-5ffbd4732209"
+    },
+    {
+        "id": "25337076334881628718855316613701",
+        "parent_id": "",
+        "section_type": "introduction",
+        "title": "SECTION B -SUPPLIES OR SERVICES AND PRICES/COSTS",
+        "content": "",
+        "document_source_page_number": 2,
+        "subsections": [
+            {
+                "id": "25337076342804444970281750373055",
+                "parent_id": "25337076334881628718855316613701",
+                "section_type": "introduction",
+                "title": "B.1 GENERAL",
+                "content": "The work shall be performed in accordance with all sections of this TOR and the contractor\u2019s MAS contract, under which the resulting TO will be placed. A TO will be established for a period of up to five years (base period and four one-year option periods).",
+                "document_source_page_number": 2
+            },
+            {
+                "id": "25337076350727261221708184132410",
+                "parent_id": "25337076334881628718855316613701",
+                "section_type": "introduction",
+                "title": "B.2 ORDER TYPES",
+                "content": "The contractor shall perform the effort required by this TO on a firm-fixed price (FFP) basis for all awarded CLINs. There are four Option Periods of the same FFP contract type that may be exercised by the Government unilaterally under FAR 52.217-9 Option to Extend the Term of the Contract (Mar 2000), per the Services and Price Schedule found in section B.3 below.",
+                "document_source_page_number": 2
+            },
+            {
+                "id": "25337076358650077473134617891764",
+                "parent_id": "25337076334881628718855316613701",
+                "section_type": "introduction",
+                "title": "B.3 SERVICES AND PRICES/COSTS",
+                "content": "All labor categories proposed and used on this task order must be labor categories awarded on the firm\u2019s MAS contract, and the SaaS proposed must also be awarded on the firm\u2019s MAS contract. As stated below in Section L, the quote must state the SINs applicable to the awarded labor categories and the awarded SaaS. The Government considers the following SINs to be within scope of either the labor categories or SaaS: \nSIN 518210C (Cloud Computing and Cloud Related IT Professional Services) \nSIN 54151 (Software Maintenance Services) \nSIN 54151S (Information Technology Professional Services) \nSIN 54151ECOM (Electronic Commerce and Subscription Services) \nSIN 511210 (Software Licenses) \nAny labor categories or SaaS awarded under other SINs are considered out of scope. \nEach POP will include one FFP CLIN for the software license as well as one FFP CLIN for all services that do not come with the software license. The quote will clearly state what is included in the price of the software license. All other requirements to be met by proposed labor categories will go into a second FFP CLIN. The Base Period is to include all implementation and setup costs. See Section L for instructions on the pricing quote. \nThe SaaS will be quoted based on an annual price or a monthly price, depending on how it is awarded and priced on the MAS contract. The quote will clearly state whether the price proposed is an annual price or a monthly price. \nThe Government is seeking discounts on the TO from the awarded prices on the MAS contract. \nThe following abbreviations are used in this price schedule: \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>CLIN</th>\n      <th>Contract Line Item Number</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>FFP</td>\n      <td>Firm-Fixed-Price</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>QTY</td>\n      <td>Quantity</td>\n    </tr>\n  </tbody>\n</table>\n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>CLIN</th>\n      <th>Description</th>\n      <th>QTY</th>\n      <th>Unit</th>\n      <th>Unit Price</th>\n      <th>Total FFP</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>0001</td>\n      <td>Support Services (all requirements not included in the software licensing)</td>\n      <td>1</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>0002</td>\n      <td>Software Licensing</td>\n      <td>1 or 12 *</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Option Period 1</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>1001</td>\n      <td>Support Services (all requirements not included in the software licensing)</td>\n      <td>1</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>1002</td>\n      <td>Software Licensing</td>\n      <td>1 or 12 *</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>Option Period 2</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>2001</td>\n      <td>Support Services (all requirements not included in the software licensing)</td>\n      <td>1</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>7</th>\n      <td>2002</td>\n      <td>Software Licensing</td>\n      <td>1 or 12 *</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>8</th>\n      <td>Option Period 3</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>9</th>\n      <td>3001</td>\n      <td>Support Services (all requirements not included in the software licensing)</td>\n      <td>1</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>10</th>\n      <td>3002</td>\n      <td>Software Licensing</td>\n      <td>1 or 12 *</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>11</th>\n      <td>Option Period 4</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>12</th>\n      <td>4001</td>\n      <td>Support Services (all requirements not included in the software licensing)</td>\n      <td>1</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n    <tr>\n      <th>13</th>\n      <td>4002</td>\n      <td>Software Licensing</td>\n      <td>1 or 12 *</td>\n      <td>Each</td>\n      <td>$</td>\n      <td>$</td>\n    </tr>\n  </tbody>\n</table>\n* Contractor shall state in quote whether the quantity is \u201c1\u201d (annual price) or \u201c12\u201d (monthly price). \nTOTAL: \n$_______________",
+                "document_source_page_number": 2
+            }
+        ]
+    },
+    {
+        "id": "27141387759531612957185052047204",
+        "parent_id": "",
+        "section_type": "background",
+        "title": "SECTION C -PERFORMANCE WORK STATEMENT",
+        "content": "",
+        "document_source_page_number": 4,
+        "subsections": [
+            {
+                "id": "25337076366572893724561051651118",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "background",
+                "title": "C.1 BACKGROUND",
+                "content": "The NBRC is a Federal-State partnership for economic and community development in Maine, pmNew Hampshire, Vermont, and New York. Each year, the NBRC provides Federal funds for critical economic and community development projects throughout the northeastern United States. The NBRC has grown rapidly over the past four Fiscal Years, from $20MM in appropriations in Fiscal Year (FY) 18 to over $60MM in FY 22, including partnership programs administered through collaborating agencies. Additionally, the NBRC was appropriated $150MM as part of the Bipartisan Infrastructure Legislation (BIL), to be deployed over the next five fiscal years. \nThe NBRC is seeking to migrate to a modern, secure SaaS GMS to not only facilitate compliance with government regulations and statutes, but to transform the way the agency executes its mission. The NBRC seeks a system that can serve as a portal for multiple grant application cycles / year and facilitate management and oversight of grant-funded projects, up to and including close-out activities. \nGiven the growth identified above, the NBRC anticipates receiving approximately 200 \u2013 400 project proposals per year, awarding up to 75-85 new awards per year, totaling approximately $50MM per year, at least through FY 28 (including both the IIJA funds referenced earlier, in addition to regular, annual appropriations). There are roughly 10 intake forms per project during the application process. The NBRC anticipates that approximately 12-15 staff, approximately 20-25 external reviewers, and up to 300 applicants and current grantees will need to use the new system annually. We anticipate these users would access the system through the established GUI created for the GMS. The NBRC thus seeks a grants management and reporting system that increases effectiveness, efficiency, and accountability and will allow automated processing and oversight of the grant\u2019s workflow for each of their programs. \nThe steps involved in the current approval/rejection process of a grant application are as follows: \n\u25cf \nApplications are reviewed for eligibility, if they are ineligible, they are marked as such and the applicant is informed. \n\u25cf \nIf the application is eligible it is marked as such then continues to a review process to determine its rank among the projects in each state. \n\u25cf \nAfter review and ranking it is voted on by the NBRC and if selected, awarded and turns into a grant through to completion and closeout. Emails generated during this process are NBRC staff-generated responses. \nThe new GMS SaaS will streamline and address gaps in business processes, grants management, financial interfaces [(the NBRC currently uses Pegasys Financial Services (PFS) as its Federal Shared Service Provider (FSSP)], and data management. \nThe new GMS SaaS will need to support the grant related business areas for the NBRC\u2019s three two major grant programs, with the ability to accommodate future programmatic growth. The NBRC defines a \"grant program\" as a publicly accessible opportunity to deploy Federal dollars consistent with the NBRC's statute, clustered around authorized areas of funding as specified in 40 U.S.C., Subtitle V. The NBRC currently offers two such programs; one larger program called Catalyst and one smaller program called Forest Economy Program (FEP). Both programs are similar with regard to application content and requirements (e.g., submission of Federal form SF424a), with differences primarily focused on categories of the economy that the grant dollars are intended to support (e.g., the \"forest products industry\"). While the NBRC cannot predict with 100% accuracy whether new programs will be added in future years -because Congress can appropriate funds for a specific program at any time -we do not anticipate more than two new programs being added in the next 2-3 years.",
+                "document_source_page_number": 4,
+                "subsections": [
+                    {
+                        "id": "25337076374495709975987485410473",
+                        "parent_id": "25337076366572893724561051651118",
+                        "section_type": "purpose",
+                        "title": "C.1.1 PURPOSE",
+                        "content": "The purpose of this requirement is to acquire a SaaS application that is configurable to the NBRC\u2019s requirements and specifications contained in this PWS. \nThis is a non-personal services contract to provide grants management SaaS. The Government shall not exercise any supervision or control over the contract service providers performing the services herein. Such contract service providers shall be accountable solely to the vendor who, in turn is responsible to the Government. \nThe vendor shall provide a cloud based application, i.e., SaaS, as defined by NIST SP 800-145. The NIST definition of SaaS reads, in part\u2026 \n\u201cThe applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user specific application configuration settings.\u201d (NIST SP 800-145) \nThe SaaS application will perform grants management administrations defined in this Performance Work Statement (PWS).The vendor shall perform to the standards referenced in this PWS. \nThe Government is not requiring the contractor to import historical grant data. However, it is possible the Government may request an import in the future via a modification. The Government will import approximately 50 .CSV data folders/files, approximately 12,000 KB in size.",
+                        "document_source_page_number": 5
+                    },
+                    {
+                        "id": "25337076382418526227413919169827",
+                        "parent_id": "25337076366572893724561051651118",
+                        "section_type": "background",
+                        "title": "C.1.2 AGENCY MISSION",
+                        "content": "The mission of the NBRC is to catalyze regional, collaborative, and transformative community economic development approaches that alleviate economic distress and position the region for economic growth. \nFor more information on the NBRC, visit the website at https://www.nbrc.gov/",
+                        "document_source_page_number": 6
+                    }
+                ]
+            },
+            {
+                "id": "25337076390341342478840352929182",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "scope",
+                "title": "C.2 SCOPE",
+                "content": "The major deliverable to be provided under this PWS is a Commercial-Off-The-Shelf (COTS) GMS SaaS application that meets all requirements detailed in this PWS for improved administration of applications and awards and improved internal control structures for data collection and data management processes.",
+                "document_source_page_number": 6
+            },
+            {
+                "id": "25337076398264158730266786688536",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "background",
+                "title": "C.3 CURRENT INFORMATION TECHNOLOGY (IT)/NETWORK ENVIRONMENT",
+                "content": "The NBRC currently uses a custom-made grant application system, which was developed in partnership with an external vendor, and has been in use for approximately 5 years. The current system has several limitations, including: \n\u25cf \nAge and the labor costs required to maintain and upgrade the system; \n\u25cf \nLimited to one grant cycle / year (this was practical when the system was first developed, but the NBRC will begin conducting three grant cycles / year in FY 23); \n\u25cf \nLacks ability to integrate with other federal systems, such as financial shared services providers; \n\u25cf \nLimited usability for grant management and administration.",
+                "document_source_page_number": 6
+            },
+            {
+                "id": "25337076406186974981693220447890",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "purpose",
+                "title": "C.4 OBJECTIVE",
+                "content": "The NBRC is seeking a new, cloud-hosted GMS SaaS application in compliance with the Office of Management and Budget, OMB Memorandum 19-16, the Grants Quality Service Management Office (QSMO), which provided standards of practice for grants management systems. The NBRC will follow the Federal Integrated Business Framework (FIBF) (reference Appendix A: Federal Integrated Business Framework Grants Management Business Lifecycle) in this SaaS implementation. The product must, at a minimum, align with the Grants Management Business Standard Components, including the Federal Business Lifecycle, Business Capabilities, and Standard Data Elements. The SaaS application must receive and provide data in conformance with federal government specified data element definitions in compliance with the FIBF and 2 CFR Subtitle A. In addition, the product shall meet Section 508 accessibility requirements. \nThe vendor shall provide a cloud based application, i.e., SaaS, as defined by NIST SP 800-145.The NIST definition of SaaS reads, in part\u2026 \n\u201cThe applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud \ninfrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user specific application configuration settings.\u201d (NIST SP 800-145) \nThe SaaS application will perform grants management administrations defined in this Performance Work Statement (PWS).The vendor shall perform to the standards referenced in this PWS.",
+                "document_source_page_number": 6
+            },
+            {
+                "id": "25337076414109791233119654207245",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "tasks",
+                "title": "C.5 TASKS",
+                "content": "The vendor shall offer a SaaS grants management solution that: \n\u25cf \nWill enable NBRC staff to support and streamline the grants management business process as a whole, and to monitor, evaluate, and report on funded grants. \n\u25cf \nIs configurable to the NBRC\u2019s requirements and specifications, including workflows for items such as application receipt and review, Letter of Interest receipt, review, and approval, by internal NBRC staff members and external reviewer-stakeholders. \n\u25cf \nIncludes a public-facing portal which allows grantees to view grant opportunities, submit applications, monitor status of grants, and submit reports. \n\u25cf \nIs a cloud-hosted SaaS application that has a Federal Risk and Authorization Management Program (FedRAMP) Moderate authorization or be able to achieve an Authority to Operate (ATO) as per the FISMA and NIST compliance standards in time for the NBRC to begin test modes and practical operational training. The NBRC's timeline corresponds to application acceptance for the next anticipated grant round, October 1, 2023. \n\u25cf \nIs able to integrate with the NBRC\u2019s financial services provider, PFS, running a Momentum-based system, in order to facilitate disbursements, payments, invoices, vendor files and funding obligation; currently the application portal does not integrate with any other systems. \n\u25cf \nEnsures ease of integration with the NBRC\u2019s current technology infrastructure, such that common file types \u2013 created by Adobe, MS Office Suite, and common image formats such as JPG & PNG \u2013 are compatible for upload/download and electronic signatures. \n\u25cf \nCan be configured and provide \u2018Dashboard\u2019 functionality to support internal and external users. \n\u25cf \nWill provide and configure \u2018Notifications\u2019 and alerts within the system and through email integration. \n\u25cf \nEnsures data and document integrity and becomes the repository for all NRBC proposal and grant materials. \n\u25cf \nProvides the ability for future integration and migration of the NRBC SaaS data to other systems by providing the means to download all data from the SaaS application in compatible comma-separated values (CSV) format. \n\u25cf \nMeets Section 508 accessibility requirements. \n\u25cf \nGrantees submit project performance reports on a quarterly basis, some additional reporting based on type of project potentially yearly for financial and property reports. Reports are submitted using federal standard forms. These reports are NOT part of the application. \n\u25cf \nWill utilize electronic signature tools Adobe Sign and/or BOX Sign",
+                "document_source_page_number": 7,
+                "subsections": [
+                    {
+                        "id": "25337076422032607484546087966599",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.1 APPLICATION",
+                        "content": "\u25cf \nA simple Graphical User Interface (GUI) that allows grant applicants to complete and submit a NBRC grant application online, via fillable fields (up to 70 fields). \n\u25cb \nApplicants must be able to upload supplemental documents in the form of PDFs, MS Office Suite, and photos (e.g., JPEG, PNG, etc.). For example, a SF424cbw, or SF270. Also, NBRC-generated forms. There are approximately 50 forms that comprise the entirety of the NBRC\u2019s grant making process, from application through project close-out. \n\u25cb \nApplicants must be able to input information such as name, organization, contact information, project description, etc. in a text box. NBRC will provide field names & response length maximums (e.g., max of 300 words). \n\u25cf \nCapability for NBRC staff to access the submitted applications and download documents therein. \n\u25cf \nCapability for NBRC-approved stakeholders to access submitted applications and download documents therein. \n\u25cf \nNBRC staff should be able to comment on applications in a format that is not visible to the applicant (e.g., the \u201cchecklist\u201d in the current database). \n\u25cf \nNBRC staff should be able to communicate with grantees (and vice-versa) within the system.",
+                        "document_source_page_number": 8
+                    },
+                    {
+                        "id": "25337076429955423735972521725954",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.2 FINANCIAL MANAGEMENT",
+                        "content": "\u25cf \nFunding Inflow & Outflow: \n\u25cb \nSource of funds (Agency, other Federal, non-Federal) \n\u25cb \nUse of funds (Personnel, Indirect, Equipment, Construction, etc.) \n\u25cf \nOverall project funding status: \n\u25cb \nAmount of funds obligated, spent to-date, amount remaining, matching funds expended, etc. \n\u25cf \nPayment processing & tracking: \n\u25cb \nStatus of outstanding/pending reimbursements \n\u25cb \nVerification of payment processing (NBRC and grantee) \n\u25cb \nThe vendor will not need to perform any financial transactions",
+                        "document_source_page_number": 8
+                    },
+                    {
+                        "id": "25337076437878239987398955485308",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.3 GMS SERVICE DESK SUPPORT",
+                        "content": "Service Desk Support is a required task following implementation. \nThe vendor shall provide a 3-tier, ITIL-based Service Desk for incidents and service requests for the GMS application. Incidents and service requests will be classified by impact and urgency to determine priority for resolution. The vendor is required to provide GMS Service Desk support during implementation and data migration phases. Following GMS application implementation, Tier 1, 2, and 3 Service Desk support tiers are each provided as required tasks. \nSupport at all tiers is provided daily in English, at minimum 7:00 a.m. to 6:00 p.m. Eastern time, excluding weekends and Federal holidays. \nThe vendor is responsible for providing and maintaining their own ticketing and call system. \nTier 1 Service Desk Support: The Tier 1 Service Desk shall support incoming incidents and service requests from electronic mail, telephone, and as forwarded from the OIT Service Desk and National Service Hotline. The goal of Tier 1 support is First Contact Resolution (FCR). Tier 1 is the front end for NBRC GMS customers (grant applicants and NBRC-designated stakeholder-users) to obtain help using the GMS application, reporting service incidents, or placing service requests. \nTier 2 Service Desk Support: Tier 2 support serves as an escalation point for incidents and service requests that cannot be readily resolved by Tier 1 at first contact. Tier 2 assesses incidents and services requests, clarifies data with end users and is responsible for complex incident and service request resolution. Tier 2 interfaces with OIT staff if necessary and escalates critical issues to Tier 3 if they are unable to provide resolution. \nTier 3 Service Desk Support: vendor shall provide Tier 3 Service Desk support, the highest level of subject matter expertise, in support of the GMS application and environments. Tier 3 is the final escalation point for all incidents and service requests. Tier 3 is responsible for advanced troubleshooting, coordinating root cause analysis of incidents, reporting product and data defects, coordinating required code changes, and resolving any incident or service request.",
+                        "document_source_page_number": 8
+                    },
+                    {
+                        "id": "25337076445801056238825389244662",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.4 TRAINING",
+                        "content": "The vendor shall provide training to NBRC personnel on using the cloud based grant management database. The vendor shall provide a staff training guide and grant applicant instructions. Grant applicant instructions must be user-friendly, defined here as being accessible to a member of the public with a limited technical capacity that does not extend beyond the basic Microsoft Office suite (Word, Outlook, PPT, and Excel). \nAdditional training specifications are as follows: \n\u2022 \nGovernment\u2019s expectation is that training will comprise between 2 and 4 8-hour days, where approximately 50-75% of time is spent training NBRC staff on features utilized for grant management and receiving and processing grant applications, and the remaining time is spent training NBRC staff on the grantee side of the product (i.e., from the perspective of a grantee, how he/she would engage with the product to, for example, submit a grant application or a reimbursement request). \n\u2022 \nGovernment expects that training will occur in a virtual environment (via MS Teams, Zoom, or Google Meet), and will occur within 90 days of contract. \n\u2022 \nGovernment expects that multi-day training \u2013 consistent with bullet #1 of this section \u2013 will occur during base year, but that up to 1 full day of training will be provided in subsequent contract years to update NBRC staff on new features and product updates. \nThese trainings will also occur in a virtual environment consistent with bullet #2 of this section.",
+                        "document_source_page_number": 9
+                    },
+                    {
+                        "id": "25337076453723872490251823004017",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.5 CONTINUITY OF OPERATIONS",
+                        "content": "The vendor shall be responsible for meeting all availability SLAs and maintaining the GMS SaaS application\u2019s continuity of operations in the event of critical failures. The vendor\u2019s quote will indicate how they will be able to sustain operations of all environments in the event of critical failures. Critical failures include, but are not limited to, system interface outages, network outages, Cloud Service Provider failures, vendor\u2019s Internet Service Provider failures, database failures, application failures, Denial of Service attacks, or SaaS damage from malware. The GMS SaaS system Recovery Point Objective is the last valid transaction. The GMS SaaS Recovery Time Objective is the outage time permitted by the monthly 95% availability.",
+                        "document_source_page_number": 10
+                    },
+                    {
+                        "id": "25337076461646688741678256763371",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.6 COORDINATE A PROJECT KICK-OFF MEETING",
+                        "content": "The contractor shall schedule, coordinate, and host a virtual Project Kick-Off Meeting (Section F, Deliverable 01). The meeting shall provide an introduction between the contractor personnel and Government personnel who will be involved with the TO. The meeting shall provide the opportunity to discuss technical, management, and security issues, and travel authorization and reporting procedures. At a minimum, the attendees shall include Key contractor Personnel, representatives from the directorates, NBRC, other relevant Government personnel, the GSA Contracting Officer\u2019s Representative (COR), and the Contracting Officer (CO). The Kick-Off Meeting shall be held within ten business days of the Task Order Start Date. \nAt least two business days prior to the Kick-Off Meeting, the contractor shall provide a Kick-Off Meeting Agenda (Section F, Deliverable 02). The agenda shall include, at a minimum, the following topics/deliverables: \na. \nPoints of Contact (POCs) for all parties. \nb. \nPersonnel discussion (i.e., roles and responsibilities and lines of communication between contractor and Government). \nc. \nTransition-In Plan (draft) and discussion. \nd. \nFinancial reporting and invoicing requirements. \ne. \nQuality Management Plan (QMP) (draft) \nThe Government will provide the contractor with the number of Government participants for the Kick-Off Meeting, and the contractor shall provide digital copies of the presentation for all present. \nThe contractor shall draft and provide a Kick-Off Meeting Minutes Report (Section F, Deliverable 03) documenting the Kick-Off Meeting discussion and capturing any action items at least two business days following the Kick-Off Meeting.",
+                        "document_source_page_number": 10
+                    },
+                    {
+                        "id": "25337076469569504993104690522726",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.7 PREPARE A MONTHLY STATUS REPORT (MSR)",
+                        "content": "The contractor shall develop and provide an MSR (Section F, Deliverable 04). The MSR is due by the 10th calendar day of the month (or next business day if the 10th is not a business day) and shall include the following: \na. \nActivities during the reporting period, by task (include ongoing activities, new activities, and activities completed, and progress to date on all above mentioned activities). Each section shall start with a brief description of the task. \nb. \nProblems and corrective actions taken. Also include issues or concerns and proposed resolutions to address them. \nc. \nPersonnel gains, losses, and status (security clearance, etc.). \nd. \nGovernment actions required. \ne. \nSchedule (show major tasks, milestones, and deliverables; planned and actual start and completion dates for each). \nf. \nAccumulated invoiced cost for each CLIN up to the previous month. \ng. \nProjected cost of each CLIN for the current month.",
+                        "document_source_page_number": 10
+                    },
+                    {
+                        "id": "25337076477492321244531124282080",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.8 MONTHLY STATUS MEETINGS",
+                        "content": "The CO, COR, and other Government personnel (as appropriate) will have a Monthly Status Meeting (Section F, Deliverable 05) by the 15th calendar day of the month (or next business day if the 15th is not a business day) in a virtual setting with the contractor to review the status of the project. At these meetings the Government will apprise the contractor of any concerns and the vendor will apprise the Government of any issues being experienced. Appropriate action shall be taken to resolve outstanding issues. The contractor shall draft and provide a Monthly Status Meeting Minutes (Section F, Deliverable 06) documenting the Monthly Status Meeting discussion and capturing any action items at least five business days following the Monthly Status Meeting. \nIn addition, the contractor agrees to attend any additional post award meetings convened by the contracting activity in accordance with Federal Acquisition Regulation Subpart 42.5. These meetings shall be at no additional cost to the government.",
+                        "document_source_page_number": 11
+                    },
+                    {
+                        "id": "25337076485415137495957558041434",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.9 PROVIDE QUALITY MANAGEMENT",
+                        "content": "The contractor shall identify and implement its approach for providing and ensuring quality throughout its solution to meet the requirements of the TO. The contractor shall provide a draft QMP by the Kick-Off Meeting with a final QMP due within 10 business days of the Kick-Off Meeting, and shall maintain and update it as changes in the program processes are identified (Section F, Deliverable 07). The contractor\u2019s QMP shall describe the application of the appropriate methodology (i.e., quality control and/or quality assurance) for accomplishing TO performance expectations and objectives. The QMP shall describe how the appropriate methodology integrates with the Government\u2019s requirements.",
+                        "document_source_page_number": 11
+                    },
+                    {
+                        "id": "25337076493337953747383991800789",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.10 QUALITY ASSURANCE",
+                        "content": "The government shall evaluate the vendor\u2019s performance under this contract in accordance with the Quality Assurance Surveillance Plan (QASP). This plan is primarily focused on what the Government must do to ensure that the vendor has performed in accordance with the performance standards identified below. It defines how the performance standards will be applied, the frequency of surveillance, and the minimum acceptable defect rate(s). The QASP will be provided to the contractor as a courtesy but the Government reserves the right to make changes/revisions at any time.",
+                        "document_source_page_number": 12
+                    },
+                    {
+                        "id": "25337076501260769998810425560143",
+                        "parent_id": "25337076414109791233119654207245",
+                        "section_type": "task",
+                        "title": "C.5.11 TRANSITION-IN",
+                        "content": "The contractor shall provide a draft Transition-In Plan by the Kick-Off Meeting with a final Transition-In Plan due within 10 business days of the Kick-Off Meeting (Section F, Deliverable 08). The contractor shall ensure that there will be minimum service disruption to vital Government business and no service degradation during and after transition. The transition shall be completed within 90 days of award if the quoted SaaS is fully FedRAMP authorized, or within 60 days after issuance of an ATO.",
+                        "document_source_page_number": 12
+                    }
+                ]
+            },
+            {
+                "id": "25337076509183586250236859319497",
+                "parent_id": "27141387759531612957185052047204",
+                "section_type": "other_information",
+                "title": "C.6 GENERAL INFORMATION",
+                "content": "",
+                "document_source_page_number": 12,
+                "subsections": [
+                    {
+                        "id": "25337076517106402501663293078852",
+                        "parent_id": "25337076509183586250236859319497",
+                        "section_type": "other_information",
+                        "title": "C.6.1 RECOGNIZED HOLIDAYS",
+                        "content": "Federal law (5 U.S.C. 6103) establishes the public holidays for federal employees. Please note that most federal employees work on a Monday through Friday schedule. For these employees, when a holiday falls on a non-workday \u2013 Saturday or Sunday \u2013 the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday). Contractors shall follow these same guidelines. Direct billing/invoicing shall not be allowed for any federal government holidays. Federal holidays are listed at the Office of Personnel and Management at https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/. The current list of Federal holidays includes: \nNew Year\u2019s Day \nBirthday of Martin Luther King, Jr. \nWashington\u2019s Birthday \nMemorial Day \nJuneteenth National Independence Day \nIndependence Day \nLabor Day \nColumbus Day \nVeterans Day \nThanksgiving Day \nChristmas Day",
+                        "document_source_page_number": 12
+                    },
+                    {
+                        "id": "25337076525029218753089726838206",
+                        "parent_id": "25337076509183586250236859319497",
+                        "section_type": "other_information",
+                        "title": "C.6.2 APPLICABLE PUBLICATIONS",
+                        "content": "The vendor must abide by all applicable regulations, publications, manuals, and local policies and procedures. \nThe vendor's proposed solution shall be in accordance with the solicitation requirements and consistent with the most current version of all the applicable documents identified below at time \nof quote submission. GSA believes sufficient information has been provided via this solicitation to ensure the vendor\u2019s proposed solution is consistent with all applicable laws, regulations, policies, and procedures at time of quote submission. However, should at any time during performance it becomes known to the vendor that a more up to date version of X policy and X policy changes and the proposed solution is no longer consistent with those policies/laws the Vendor will notify the COR and GSA CO in writing with a proposed solution that meets the requirements of both policies/laws. Changes in policies/laws that substantially change the software itself shall be negotiated via a modification at the applicable time. However, if the policies/laws do not require substantial changes to the software, the contractor shall ensure the software follows the new policies/laws without a change in price. \n\u25cf \nOffice of Management and Budget Guidance for Grants and Agreements: 2 CFR Subtitle A; https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200 \n\u25cf \nFederal Integrated Business Framework (FIBF): https://ussm.gsa.gov/fibf/ \n\u25cf \nFIBF Grants Management Business Standards: https://ussm.gsa.gov/fibf-gm/ \n\u25cf \nDigital Accountability and Transparency Act of 2014: PUBL101.PS (congress.gov) 44 U.S.C. \u00a7 3551 et seq. Digital Accountability and Transparency Act Of 2014 \n\u25cf \nFederal Information Security Modernization Act of 2014 (FISMA), as amended \n\u25cf \nPrivacy Act of 1974, (5 U.S.C. \u00a7 552a) \n\u25cf \nE-Government Act of 2002, Section 208 \n\u25cf \nTitle V -Confidential Information Protection and Statistical Efficiency Act of 2002 of the E-Government Act of 2002 (CIPSEA) \n\u25cf \nExecutive Order 13556 for Controlled Unclassified Information (CUI) \n\u25cf \nClinger-Cohen Act of 1996 also known as the \u201cInformation Technology Management Reform Act of 1996\u201d \n\u25cf \nOffice of Management and Budget (OMB) Circular A-130, \u201cManaging Strategic Information as a Resource\u201d \n\u25cf \nNIST Special Publication (SP) 800-18 (as amended), \u201cGuide for Developing Security Plans for Federal Information Systems\u201d \n\u25cf \nNIST SP 800-30 (as amended), \u201cGuide for Conducting Risk Assessments\u201d \n\u25cf \nNIST SP 800-34 (as amended), \u201cContingency Planning Guide for Federal Information Systems\u201d \n\u25cf \nNIST SP 800-37, (as amended), \u201cRisk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy\u201d \n\u25cf \nNIST SP 800-47, \u201cSecurity Guide for Interconnecting Information Technology Systems\u201d \n\u25cf \nNIST SP 800-53 (as amended), \u201cSecurity and Privacy Controls Information systems and for Information Systems and Organizations\u201d \n\u25cf \nNIST SP 800-53A (as amended), \u201cAssessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessments Plans\u201d \n\u25cf \nNIST SP 800-60 vol 1 (as amended), \u201cGuide for Mapping Types of Information and Information Systems to Security Categories\u201d \n\u25cf \nNIST SP 800-60 vol 2 (as amended), \u201cGuide for Mapping Types of Information and Information Systems to Security Categories: Appendices\u201d \n\u25cf \nNIST SP 800-61 (as amended), \u201cComputer Security Incident Handling Guide\u201d \n\u25cf \nNIST SP 800-63-3, \u201cDigital Identity Guidelines\u201d \n\u25cf \nNIST SP 800-171 (as amended), \u201cProtecting Controlled Unclassified Information Nonfederal Systems and Organizations\u201d \n\u25cf \nNIST SP 800-177 (as amended), \u201cTrustworthy Email\u201d \n\u25cf \nFIPS PUB 140-3, \u201cSecurity Requirements for Cryptographic Modules\u201d \n\u25cf \nFIPS PUB 199, \u201cStandards for Security Categorization of Federal Information and Information Systems\u201d \n\u25cf \nFIPS PUB 200, \u201cMinimum Security Requirements for Federal Information and Information Systems\u201d \n\u25cf \nSection 508 of the Rehabilitation Act, as amended by the Workforce Investment Act of 1998 (P.L. 105-220) \nAny other relevant Federal laws, regulations, policies and guidance that the NBRC must adhere to.",
+                        "document_source_page_number": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27141391879396063698930606911490",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION D -PACKAGING AND MARKING",
+        "content": "",
+        "document_source_page_number": 16,
+        "subsections": [
+            {
+                "id": "25337076532952035004516160597561",
+                "parent_id": "27141391879396063698930606911490",
+                "section_type": "other_information",
+                "title": "D.1 PRESERVATION, PACKAGING, PACKING, AND MARKING",
+                "content": "Preservation, packaging, packing, and marking of all deliverables must conform to normal commercial packing standards to assure safe delivery at destination.",
+                "document_source_page_number": 16
+            },
+            {
+                "id": "25337076540874851255942594356915",
+                "parent_id": "27141391879396063698930606911490",
+                "section_type": "other_information",
+                "title": "D.2 SOFTWARE AND MAGNETIC MEDIA MARKING",
+                "content": "Packages containing software or other magnetic media shall be marked in accordance with requirements set forth in the task order, or if none is specified, shall be marked on external containers with a notice reading substantially as follows: \u201cCAUTION: SOFTWARE/MAGNETIC MEDIA ENCLOSED. DO NOT EXPOSE TO HEAT OR MAGNETIC FIELDS.\u201d \nTask Order Request 47QFAA23Q0005 \nPAGE D-1",
+                "document_source_page_number": 16
+            }
+        ]
+    },
+    {
+        "id": "27141394177012776612596397124264",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION E -INSPECTION AND ACCEPTANCE",
+        "content": "",
+        "document_source_page_number": 17,
+        "subsections": [
+            {
+                "id": "25337076548797667507369028116269",
+                "parent_id": "27141394177012776612596397124264",
+                "section_type": "other_information",
+                "title": "E.1 PLACE OF INSPECTION AND ACCEPTANCE",
+                "content": "Inspection and acceptance of all work performance, reports, and other deliverables under this TO will be performed by authorized representatives of GSA in coordination with the COR. Final acceptance of all work performance, reports, and other deliverables under this order shall be performed by the COR with coordination with the CO.",
+                "document_source_page_number": 17
+            },
+            {
+                "id": "25337076556720483758795461875624",
+                "parent_id": "27141394177012776612596397124264",
+                "section_type": "other_information",
+                "title": "E.2 SCOPE OF INSPECTION",
+                "content": "All deliverables will be inspected for content, completeness, accuracy, and conformance to TO requirements by authorized representatives of GSA in coordination with the COR. Inspection may include validation of information or software through the use of automated tools, testing, or inspections of the deliverables, as specified in the TO. The scope and nature of this inspection will be sufficiently comprehensive to ensure the completeness, quality, and adequacy of all deliverables. \nThe Government requires a period NTE 15 workdays after receipt of deliverable items for inspection and acceptance or rejection.",
+                "document_source_page_number": 17
+            },
+            {
+                "id": "25337076564643300010221895634978",
+                "parent_id": "27141394177012776612596397124264",
+                "section_type": "other_information",
+                "title": "E.3 BASIS OF ACCEPTANCE",
+                "content": "The basis for acceptance shall be compliance with the requirements set forth in the TO and relevant terms and conditions of the MAS contract. Deliverable items rejected shall be corrected in accordance with the applicable clauses. \nAcceptance will occur when all discrepancies, errors, or other deficiencies identified in writing by the Government have been resolved, through documentation updates, program correction, or other mutually agreeable methods. \nReports, documents, and narrative-type deliverables will be accepted when all discrepancies, errors, or other deficiencies identified in writing by the Government have been corrected. If the deliverable is adequate, the Government may accept it or provide comments for incorporation. \nAll of the Government\u2019s comments on deliverables shall either be incorporated in the succeeding version of the deliverable, or the contractor shall explain to the Government\u2019s satisfaction why such comments should not be incorporated. \nIf the Government finds that a deliverable contains spelling errors, grammatical errors, or improper format, or otherwise does not conform to the quality assurance requirements stated within this TO, the document may be rejected without further review and returned to the contractor for correction and resubmission. If the contractor requires additional Government guidance to produce an acceptable version, the contractor shall arrange a meeting with the COR and CO.",
+                "document_source_page_number": 17
+            },
+            {
+                "id": "25337076572566116261648329394333",
+                "parent_id": "27141394177012776612596397124264",
+                "section_type": "other_information",
+                "title": "E.4 WRITTEN ACCEPTANCE/REJECTION BY THE GOVERNMENT",
+                "content": "The CO and/or COR will provide written notification of acceptance or rejection of all deliverables. All notifications of rejection will be accompanied with an explanation of the specific deficiencies causing the rejection.",
+                "document_source_page_number": 17
+            }
+        ]
+    },
+    {
+        "id": "27141395999260514440676161775775",
+        "parent_id": "",
+        "section_type": "deliverables",
+        "title": "SECTION F -DELIVERIES OR PERFORMANCE",
+        "content": "",
+        "document_source_page_number": 18,
+        "subsections": [
+            {
+                "id": "25337076580488932513074763153687",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.1 PERIOD OF PERFORMANCE",
+                "content": "The anticipated period of performance shall consist of one 12-month Base Period beginning at the time of award with four 12-month Option Periods, as follows: \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Base Year:</th>\n      <th>Award for 12 months beginning in FY 23</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Option Period 1:</td>\n      <td>Months 13-24</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Option Period 2:</td>\n      <td>Months 25-36</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Option Period 3:</td>\n      <td>Months 37-48</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Option Period 4:</td>\n      <td>Months 49-60</td>\n    </tr>\n  </tbody>\n</table>",
+                "document_source_page_number": 18
+            },
+            {
+                "id": "25337076588411748764501196913041",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.2 PLACE OF PERFORMANCE",
+                "content": "The place of performance will be at the vendor\u2019s facility. Teleworking is at the discretion of the vendor as long as all employees are in the Continental United States (CONUS) or Hawaii and Alaska (OCONUS). At present, Microsoft Teams and Zoom are the collaborative VTC/Desktop/Application sharing tools used when engaging with NBRC staff. All work will be performed within the Continental United States (CONUS) plus Hawaii and Alaska (OCONUS).",
+                "document_source_page_number": 18
+            },
+            {
+                "id": "25337076596334565015927630672396",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.3 HOURS OF OPERATION",
+                "content": "The vendor is responsible for maintaining Grants Management Software availability 24 hours / day, 7 days / week to accommodate after-hours submissions by grantees. Technical support should also be available continuously, on the same schedule. Patching and upgrades must occur between the hours of 6 p.m. EST through 7 a.m. EST or on weekends or holidays.",
+                "document_source_page_number": 18
+            },
+            {
+                "id": "25337076604257381267354064431750",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.4 TASK ORDER (TO) SCHEDULE AND MILESTONE DATES",
+                "content": "The following schedule of milestones will be used by the COR to monitor timely progress under this TO. \nThe following abbreviations are used in this schedule: \nDEL: Deliverable \nIAW: In Accordance With \nNLT: No Later Than \nDeliverables are due the next business day if the due date falls on a holiday or weekend. \nData Rights Clause -Abbreviations in the Gov\u2019t Rights column of the table below shall be interpreted as follows: \nUR: Unlimited Rights, per FAR 27.404-1(a) and 52.227-14 \nRS: Restricted Software, per FAR 27.404-2 and 52.227-14 \nLD: Limited Rights Data, per FAR 27.404-2 and 52.227-14 \nFor software or documents that may be either proprietary or open-source Commercial Off-the-Shelf (COTS), RS/LD rights apply to proprietary COTS software or documents and UR rights apply to open-source software or documents. The Government asserts UR rights to open source COTS software. Any collateral agreements (within the meaning of FAR) proposed for data, regardless of the type of rights offered, shall be subject to the requirements of TOR \nSection H.9. For purposes of the foregoing, the terms \u201ccollateral agreement,\u201d \u201cSupplier Agreement,\u201d and \u201cCommercial Supplier Agreement\u201d have the same meaning. \nThe Government does not assert any rights to management software tools if the contractor does not plan to charge the Government directly for that tool and does not propose that the Government will own or use that tool. \nThe contractor shall deliver the deliverables listed in the following table on the dates specified: \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>DEL.  #</th>\n      <th>MILESTONE/ DELIVERABLE</th>\n      <th>TOR REFERENCE</th>\n      <th>DATE OF COMPLETION/ DELIVERY</th>\n      <th>GOV\u2019T RIGHTS</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>Kick-Off Meeting</td>\n      <td>C.5.6</td>\n      <td>Within 10 business days of TO Start Date</td>\n      <td>N/A</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>Kick-Off Meeting Agenda</td>\n      <td>C.5.6</td>\n      <td>NLT 2 business days prior to Kick-Off Meeting</td>\n      <td>UR</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>Kick-Off Meeting Minutes Report</td>\n      <td>C.5.6</td>\n      <td>NLT 2 business days following Kick-Off Meeting</td>\n      <td>UR</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>Monthly Status Report</td>\n      <td>C.5.7</td>\n      <td>Monthly by the 10th calendar day of the month (or next business day if 10th is not a business day)</td>\n      <td>UR</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>Monthly Status Meeting</td>\n      <td>C.5.8</td>\n      <td>Monthly by the 15th calendar day of the month (or next business day if 15th is not a business day)</td>\n      <td>N/A</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>Monthly Status Meeting Minutes</td>\n      <td>C.5.8</td>\n      <td>NLT 2 business days following Monthly Status Meeting</td>\n      <td>UR</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>Quality Management Plan (QMP)</td>\n      <td>C.5.9</td>\n      <td>Draft due at Kick-Off Meeting w/ Final due within 10 business days of Kick-Off Meeting; updated as changes in program processes are identified</td>\n      <td>UR</td>\n    </tr>\n    <tr>\n      <th>7</th>\n      <td>8</td>\n      <td>Transition-In Plan</td>\n      <td>C.5.11</td>\n      <td>Draft due at Kick-Off Meeting w/ Final due within 10</td>\n      <td>UR</td>\n    </tr>\n  </tbody>\n</table>\n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Unnamed: 0</th>\n      <th>business days of Kick-Off Meeting</th>\n    </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table>\nAll written Deliverables in above table shall be submitted via the ASSIST Collaborations Tool, with the \u201cType\u201d selected to be \u201cReport\u201d. A courtesy copy shall also be emailed to the CO.",
+                "document_source_page_number": 18
+            },
+            {
+                "id": "25337076612180197518780498191105",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.5 DELIVERABLES MEDIA",
+                "content": "The following are the required electronic formats, whose versions must be compatible with the latest, commonly available version on the market. \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>\u25cf Text</th>\n      <th>Microsoft (MS) Word, Google Docs, PDF</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>\u25cf Spreadsheets</td>\n      <td>MS Excel, Google Sheets</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>\u25cf Briefings</td>\n      <td>MS PowerPoint, Google Slides</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>\u25cf Drawings</td>\n      <td>MS Visio, Google Drawings</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>\u25cf Schedules</td>\n      <td>MS Project, Smartsheet</td>\n    </tr>\n  </tbody>\n</table>",
+                "document_source_page_number": 20
+            },
+            {
+                "id": "25337076620103013770206931950459",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.6 PLACE(S) OF DELIVERY",
+                "content": "As stated above, all written Deliverables in the above table shall be submitted via the ASSIST Collaborations Tool, with the \u201cType\u201d selected to be \u201cReport\u201d. A courtesy copy shall also be emailed to the CO.",
+                "document_source_page_number": 20
+            },
+            {
+                "id": "25337076628025830021633365709813",
+                "parent_id": "27141395999260514440676161775775",
+                "section_type": "deliverables",
+                "title": "F.7 NOTICE REGARDING DELAY IN SERVICE",
+                "content": "The contractor shall notify the CO and COR as soon as it becomes apparent to the contractor that a scheduled delivery will be late. The contractor shall provide the rationale for late delivery, the expected date for the delivery, and the project impact of the late delivery. The CO and COR will review the new schedule and provide guidance to the contractor. Such notification in no way limits any Government contractual rights or remedies including, but not limited to, termination.",
+                "document_source_page_number": 20
+            }
+        ]
+    },
+    {
+        "id": "27141398217649064840077614395006",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION G -CONTRACT ADMINISTRATION DATA",
+        "content": "",
+        "document_source_page_number": 21,
+        "subsections": [
+            {
+                "id": "25337076635948646273059799469168",
+                "parent_id": "27141398217649064840077614395006",
+                "section_type": "key_personnel",
+                "title": "G.1 CONTRACTING OFFICER\u2019S REPRESENTATIVES (COR)",
+                "content": "The CO will appoint a Client COR and a GSA COR in writing through a COR Appointment Letter. The CORs will receive, for the Government, all work called for by the TO and will represent the CO in the technical phases of the work. The CORs will provide no supervisory or instructional assistance to contractor personnel. \nThe CORs are not authorized to change any of the terms and conditions, scope, schedule, and price of the Contract or the TO. Changes in the scope of work will be made only by the CO by properly executed modifications to the Contract or the TO.",
+                "document_source_page_number": 21,
+                "subsections": [
+                    {
+                        "id": "25337076643871462524486233228522",
+                        "parent_id": "25337076635948646273059799469168",
+                        "section_type": "key_personnel",
+                        "title": "G.1.1 CONTRACT ADMINISTRATION",
+                        "content": "Contracting Officer (CO): \nSteven Wright, Senior Contracting Officer \nOffice of Contract Operations (CONOPS) \nOffice of Professional Services and Human Capital Categories (PSHC) \nFederal Acquisition Service (FAS) \nGeneral Services Administration (GSA) \nClient Contracting Officer\u2019s Representative (COR) \nIdentified upon award via correspondence from the CO \nGSA Contracting Officer\u2019s Representative (COR) \nIdentified upon award via correspondence from the CO",
+                        "document_source_page_number": 21
+                    }
+                ]
+            },
+            {
+                "id": "25337076651794278775912666987877",
+                "parent_id": "27141398217649064840077614395006",
+                "section_type": "other_information",
+                "title": "G.2 INVOICE SUBMISSION",
+                "content": "The contractor shall submit invoices not more than monthly. Each invoice shall contain all pricing components in sufficient detail necessary to reconcile charges invoiced. The contractor shall ensure that all charges, credits, and debits are shown on the invoice and that no additional data is required by GSA to verify the price of a service and verify the amount of discounts, credits or debits. \nThe client agency will accept and certify services by signing the Acceptance Document generated by the contractor. This Acceptance Document must list all written deliverables (as shown in the table in Section F above) that were submitted to the Government in the listed service period. The Acceptance Document is attached in GSA ASSIST to the invoice (along with any other supporting documentation for the invoice). Electronic acceptance of the invoice in ASSIST by the CORs are considered concurrence and acceptance of services. \nThe invoice shall be submitted via the GSA ASSIST system for evaluation and payment. Failure to submit through GSA ASSIST shall result in rejection of the invoice. \nThe following information is required for all invoices: \na. \nInvoice date \nb. \nInvoice number (contractor-generated) \nc. \nTask Order (PIID) number (provided by GSA) \nd. \nContract number (contractor MAS contract number) \ne. \nContractor Name \nf. \nPhysical remittance address \ng. \nPoint of Contact and phone number \nh. \nInvoice amount (per CLIN and Total) \ni. \nTotal Billed to Date for current Period of Performance (POP) (per CLIN and Total) \ni. \nService period (dates of service) \nj. \nCurrent POP dates (Base Period, Option Period One, etc.) \nk. \nDiscount terms, if any",
+                "document_source_page_number": 21
+            }
+        ]
+    },
+    {
+        "id": "27141400039896802668157379046517",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION H -SPECIAL CONTRACT REQUIREMENTS",
+        "content": "",
+        "document_source_page_number": 23,
+        "subsections": [
+            {
+                "id": "25337076659717095027339100747231",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "key_personnel",
+                "title": "H.1 KEY PERSONNEL",
+                "content": "The following are the minimum personnel who shall be designated as \u201cKey.\u201d The Government does not intend to dictate the composition of the ideal team to perform this TO. \nProject Manager (PM) \nThe Government desires that Key Personnel be assigned for the duration of the TO.",
+                "document_source_page_number": 23,
+                "subsections": [
+                    {
+                        "id": "25337076667639911278765534506585",
+                        "parent_id": "25337076659717095027339100747231",
+                        "section_type": "key_personnel",
+                        "title": "H.1.1 PROJECT MANAGER (PM)",
+                        "content": "The contractor shall identify a Project Manager (PM) by name who shall provide management, direction, administration, quality assurance, and leadership of the execution of this TO.",
+                        "document_source_page_number": 23
+                    },
+                    {
+                        "id": "25337076675562727530191968265940",
+                        "parent_id": "25337076659717095027339100747231",
+                        "section_type": "key_personnel",
+                        "title": "H.1.2 KEY PERSONNEL SUBSTITUTION",
+                        "content": "The contractor shall not replace any personnel designated as Key Personnel without the written concurrence of the GSA CO. This notification shall be no later than ten calendar days in advance of any proposed substitution and shall include justification specifying the qualifications and experiences of each named Key individual in sufficient detail to permit evaluation of the impact on TO performance. \nSubstitute Key Personnel qualifications shall be equal to, or greater than, those of the Key Personnel substituted. If the GSA CO and the GSA COR determine that a proposed substitute Key Personnel is unacceptable, or that the reduction of effort would be so substantial as to impair the successful performance of the work under the TO, the contractor may be subject to termination per FAR 52.212-4 paragraphs (l) or (m).",
+                        "document_source_page_number": 23
+                    }
+                ]
+            },
+            {
+                "id": "25337076683485543781618402025294",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.2 GOVERNMENT-FURNISHED INFORMATION (GFI)",
+                "content": "Data will be transferred to the vendor at the time of award and provided via CSV format.",
+                "document_source_page_number": 23
+            },
+            {
+                "id": "25337076691408360033044835784649",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.3 SECURITY REQUIREMENTS",
+                "content": "The vendor shall be responsible for safeguarding all government equipment, information and property that may be provided for vendor use. At the close of each work period, government facilities, equipment, and materials shall be secured.",
+                "document_source_page_number": 23,
+                "subsections": [
+                    {
+                        "id": "25337076699331176284471269544003",
+                        "parent_id": "25337076691408360033044835784649",
+                        "section_type": "other_information",
+                        "title": "H.3.1 INFORMATION ASSURANCE",
+                        "content": "The contractor may have access to sensitive (including privileged and confidential) data, information, and materials of the U.S. Government. These printed and electronic documents are for internal use only and remain the sole property of the U.S. Government. Some of these materials are protected by the Privacy Act of 1974 (AMENDED) and Title 38. Unauthorized disclosure of Privacy Act or Title 38 covered materials is a criminal offense.",
+                        "document_source_page_number": 23
+                    },
+                    {
+                        "id": "25337076707253992535897703303357",
+                        "parent_id": "25337076691408360033044835784649",
+                        "section_type": "other_information",
+                        "title": "H.3.2 CYBER-SUPPLY CHAIN RISK MANAGEMENT (C-SCRM)",
+                        "content": "The Government may perform a cyber-supply chain risk assessment of the awarded contractor at any time during the period of performance. The Government may review any information provided by the contractor to the Government as part of this contract action, along with any other information available to the Government from any other source, to assess the \ncyber-supply chain risk associated with the contractor. The Government may monitor the following cyber-supply chain risk information, including, but not limited to: \n1. \nFunctionality and features of awarded products and services, including access to data and information system privileges; \n2. \nThe ability of a source to produce and deliver products and services as expected; \n3. \nForeign control of, or influence over, a source, product or service (e.g., foreign ownership, personal and professional ties between a source and any foreign entity, legal regime of any foreign country in which a source is headquartered or conducts operations); \n4. \nSecurity, authenticity, and integrity of products and services and their supply and compilation chains; \n5. \nThe contractor\u2019s capacity to mitigate identified risks; \n6. \nAny other considerations that would factor into an analysis of the security, integrity, resilience, quality, trustworthiness, or authenticity of products, services or sources. \nIn the event supply chain risks are identified during contract administration and corrective action becomes necessary, mutually agreeable corrective actions will be sought based upon specific identified risks. Failure to resolve any identified risk may result in Government action including not extending the period of performance, not exercising remaining option periods and contract termination.",
+                        "document_source_page_number": 23
+                    }
+                ]
+            },
+            {
+                "id": "25337076715176808787324137062712",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.4 ORGANIZATIONAL CONFLICT OF INTEREST (OCI)",
+                "content": "If a contractor has performed, is currently performing work, or anticipates performing work that creates or represents an actual or potential OCI, the contractor shall immediately disclose this actual or potential OCI to the GSA CO in accordance with FAR Subpart 9.5. The nature of the OCI may involve the prime contractor, subcontractors of any tier, or teaming partners.",
+                "document_source_page_number": 24
+            },
+            {
+                "id": "25337076723099625038750570822066",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.5 SECTION 508 COMPLIANCE REQUIREMENTS",
+                "content": "Unless the Government invokes an exemption, all Electronic and Information Technology (EIT) products and services proposed shall fully comply with Section 508 of the Rehabilitation Act of 1973, per the 1998 Amendments, 29 U.S.C. 794d, and the Architectural and Transportation Barriers Compliance Board\u2019s Electronic and Information Technology Accessibility Standards at 36 Code of Federal Regulations (CFR) 1194. The contractor shall identify all EIT products and services provided, identify the technical standards applicable to all products and services provided, and state the degree of compliance with the applicable standards. Additionally, the contractor must clearly indicate where the information pertaining to Section 508 compliance can be found (e.g., Vendor\u2019s or other exact web page location). The contractor must ensure that the list is easily accessible by typical users beginning at time of award.",
+                "document_source_page_number": 24
+            },
+            {
+                "id": "25337076731022441290177004581421",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.7 TRAVEL",
+                "content": "All vendor activities will be conducted virtually, and thus no travel will be required.",
+                "document_source_page_number": 24
+            },
+            {
+                "id": "25337076738945257541603438340775",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.8 PRESS/NEWS RELEASE",
+                "content": "The contractor shall not make any press/news release pertaining to this procurement without prior Government approval and only in coordination with the GSA CO.",
+                "document_source_page_number": 24
+            },
+            {
+                "id": "25337076746868073793029872100129",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.9 DATA RIGHTS",
+                "content": "All GMS data and all documents/materials produced under this contract shall remain the property of the Government. The vendor shall ensure that the government retains access and download capability of all data for research, investigation, transfer, or migration to other systems. All documents and materials produced under this contract shall be Government owned and are the property of the Government with all rights and privileges of ownership/copyright belonging exclusively to the Government. These documents and materials may not be used or sold by the vendor without written permission from the CO. All materials (not to include the software code) supplied to the Government shall be the sole property of the Government and may not be used for any other purpose. This right does not abrogate any other Government rights.",
+                "document_source_page_number": 25
+            },
+            {
+                "id": "25337076754790890044456305859484",
+                "parent_id": "27141400039896802668157379046517",
+                "section_type": "other_information",
+                "title": "H.10 PERFORMANCE REQUIREMENTS SUMMARY (PRS)",
+                "content": "The PRS with acceptable quality levels is provided below. \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>TASK</th>\n      <th>TOR CITATION</th>\n      <th>PERFORMANCE STANDARD</th>\n      <th>ACCEPTABLE QUALITY LEVEL (AQL)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Kick Off Meeting</td>\n      <td>C.5.6</td>\n      <td>Scheduled within 10 days of award. Minutes shall be uploaded into ASSIST within 2 business days of meeting and cover project management expectations, meeting schedules, and timelines.</td>\n      <td>99%</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Monthly Status Report</td>\n      <td>C.5.7</td>\n      <td>MSR is provided by the 6th of the month and uploaded into ASSIST. MSR is complete, provides updates on all major milestones, and addresses any COR questions or concerns</td>\n      <td>95%</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Production &amp; Non-Production System Availability</td>\n      <td>C.5.5</td>\n      <td>GMS will not be down more than 48 total hours in a month, unless approved in advance by NBRC for scheduled system updates</td>\n      <td>95% availability</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Grant Application Intake Database and applicant instructions</td>\n      <td>C.5.4</td>\n      <td>Instructions are provided within 30 days of user acceptance testing,</td>\n      <td>100% on-time, 99% accurate and free of</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>are comprehensive, and without grammatical errors. Document will be uploaded into ASSIST within 2 business days of acceptance.</td>\n      <td>grammatical errors.</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>Staff Training Guide (STG)</td>\n      <td>C.5.4</td>\n      <td>STG is provided within 30 days of user acceptance testing, are comprehensive, and without grammatical errors  Document will be uploaded into ASSIST within 2 business days of acceptance.</td>\n      <td>100% on-time, 99% accurate and free of grammatical errors.</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "document_source_page_number": 25
+            }
+        ]
+    },
+    {
+        "id": "27141401782916377981972806104484",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION I -CONTRACT CLAUSES",
+        "content": "",
+        "document_source_page_number": 27,
+        "subsections": [
+            {
+                "id": "25337076762713706295882739618838",
+                "parent_id": "27141401782916377981972806104484",
+                "section_type": "other_information",
+                "title": "I.1 TASK ORDER CLAUSES",
+                "content": "\nAll applicable and required FAR (as set forth in FAR 52.301) and GSAM clauses as provided in the contractor\u2019s base MAS contract are hereby automatically flowed down to this task order, based on this specific task order type (e.g. FFP), PWS, competition requirements, and estimated dollar value.",
+                "document_source_page_number": 27
+            },
+            {
+                "id": "25337076770636522547309173378193",
+                "parent_id": "27141401782916377981972806104484",
+                "section_type": "other_information",
+                "title": "I.2 FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)",
+                "content": "This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es): \n(a) \nFederal Acquisition Regulation: https://www.acquisition.gov/far/ \n(b) \nGeneral Services Acquisition Manual: https://www.acquisition.gov/GSAM/gsam.html \n(End of clause) \n",
+                "document_source_page_number": 27
+            },
+            {
+                "id": "25337076778559338798735607137547",
+                "parent_id": "27141401782916377981972806104484",
+                "section_type": "other_information",
+                "title": "I.3 FAR CLAUSES INCORPORATED BY FULL TEXT",
+                "content": "FAR 52.217-8 OPTION TO EXTEND SERVICES (NOV 1999) \nThe Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice to the Contractor within 7 calendar days of the end of the current period of performance. \n(End of clause) \nFAR 52.217-9 OPTION TO EXTEND THE TERM OF THE CONTRACT (MAR 2000) \na. \nThe Government may extend the term of this contract by written notice to the Contractor within 7 calendar days of the end of the current period of performance; provided that the Government gives the Contractor a preliminary written notice of its intent to extend at least 30 calendar days before the contract expires. The preliminary notice does not commit the Government to an extension. \nb. \nIf the Government exercises this option, the extended contract shall be considered to include this option clause. \nc. \nThe total duration of this contract, including the exercise of any options under this clause, shall not exceed 5 years. \n(End of clause)",
+                "document_source_page_number": 27
+            },
+            {
+                "id": "25337076786482155050162040896901",
+                "parent_id": "27141401782916377981972806104484",
+                "section_type": "other_information",
+                "title": "I.4 GENERAL SERVICES ACQUISITION MANUAL (GSAM), CLAUSES INCORPORATED BY REFERENCE",
+                "content": "The full text of a clause may be accessed electronically at the GSAM website: \nhttps://www.acquisition.gov/gsam/gsam.html/ \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>GSAM</th>\n      <th>TITLE</th>\n      <th>DATE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>552.232-39</td>\n      <td>Unenforceability of Unauthorized Obligations (FAR Deviation)</td>\n      <td>FEB 2018</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "document_source_page_number": 28
+            }
+        ]
+    },
+    {
+        "id": "27141402971338815695937870007643",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION J -LIST OF ATTACHMENTS",
+        "content": "",
+        "document_source_page_number": 29,
+        "subsections": [
+            {
+                "id": "25337076794404971301588474656256",
+                "parent_id": "27141402971338815695937870007643",
+                "section_type": "other_information",
+                "title": "J.1 LIST OF ATTACHMENTS",
+                "content": "<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>ATTACHMENT</th>\n      <th>TITLE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>A</td>\n      <td>Standard Form 1449</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>B</td>\n      <td>NBRC Data Field Requirements</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>C</td>\n      <td>C-SCRM Questionnaire</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>D</td>\n      <td>Pricing Table (to be removed at time of award)</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>E</td>\n      <td>Project Staffing Plan Table (to be removed at time of award)</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>F</td>\n      <td>Key Personnel Qualifications Matrix (to be removed at time of award)</td>\n    </tr>\n  </tbody>\n</table>\n",
+                "document_source_page_number": 29
+            }
+        ]
+    },
+    {
+        "id": "27141404793586553524017634659154",
+        "parent_id": "",
+        "section_type": "other_information",
+        "title": "SECTION K -REPRESENTATIONS, CERTIFICATIONS, AND OTHER STATEMENTS OF OFFERORS OR RESPONDENTS",
+        "content": "",
+        "document_source_page_number": 30,
+        "subsections": [
+            {
+                "id": "25337076802327787553014908415610",
+                "parent_id": "27141404793586553524017634659154",
+                "section_type": "other_information",
+                "title": "K.1 REPRESENTATION PROVISION AND CLAUSE PROVIDED IN FULL TEXT",
+                "content": "None. However, the Government reserves the right to verify in the System of Award Management that the offeror has submitted the applicable responses to the provisions as required by the MAS contract at: \nFAR 52.204-23 (JUL 2018) \nFAR 52.204-24 (AUG 2020) \nFAR 52.204-25 (AUG 2020) \nFAR 52.204-26 (DEC 2019) \nFAR 52.209-10 Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015) \nFAR 52.225-5 Trade Agreements (OCT 2019) \nFAR 52.225-6 Trade Agreements Certificate (FEB 2021)",
+                "document_source_page_number": 30
+            }
+        ]
+    },
+    {
+        "id": "27141408675766516722970176742807",
+        "parent_id": "",
+        "section_type": "instructions",
+        "title": "SECTION L -INSTRUCTIONS, CONDITIONS, AND NOTICES TO OFFERORS",
+        "content": "",
+        "document_source_page_number": 31,
+        "subsections": [
+            {
+                "id": "25337076810250603804441342174964",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.1 FAR 52.252-1 SOLICITATION PROVISIONS INCORPORATED BY REFERENCE (FEB 1998)",
+                "content": "This solicitation incorporates one or more solicitation provisions by reference, with the same force and effect as if they were given in full text. Upon request, the CO will make the full text available. The offeror is cautioned that the listed provisions may include blocks that must be completed by the offeror and submitted with its quotation or offer. In lieu of submitting the full text of those provisions, the offeror may identify the provision by paragraph identifier and provide the appropriate information with its quotation of offer. Also, the full text of a solicitation provision may be accessed electronically at this address: \n(a) \nFederal Acquisition Regulation: https://www.acquisition.gov/far/ \n(b) \nGeneral Services Acquisition Manual: https://www.acquisition.gov/GSAM/gsam.html \n(c) \nDefense Federal Acquisition Regulation Supplement: https://www.acquisition.gov/dfars (End of provision) \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>FAR</th>\n      <th>TITLE</th>\n      <th>DATE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>52.212-1</td>\n      <td>Instructions to Offerors -Commercial Products and Commercial Services</td>\n      <td>Nov 2021</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>52.217-5</td>\n      <td>Evaluation of Options</td>\n      <td>JUL 1990</td>\n    </tr>\n  </tbody>\n</table>",
+                "document_source_page_number": 31
+            },
+            {
+                "id": "25337076818173420055867775934319",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.2 GENERAL INSTRUCTIONS",
+                "content": "a. \nThe offeror is expected to examine this entire solicitation document including the Master/Basic Contract. Failure to do so will be at the offeror\u2019s own risk. \nb. \nThe Government may make an award based on initial offers received, without exchanges of such offers. Quotes shall set forth full, accurate, and complete information as required by this solicitation package (including Attachments listed in Section J). The penalty for making false statements in quotes is prescribed in 18 U.S.C. 1001. \nc. \nAn offeror submitting restricted data shall mark it as follows in accordance with the FAR 52.215-1, Instructions to Offerors -Competitive Acquisition, which is incorporated by reference. FAR Clause 52.215-1(e) states: \u201cRestriction on disclosure and use of data. Offerors that include in their quotes data that they do not want disclosed to the public for any purpose, or used by the Government except for evaluation purposes, shall \u2013 \n(1) \nMark the title page with the following legend: \nThis quote includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclosed--in whole or in part--for any purpose other than to evaluate this quote. If, however, a contract is awarded to this offeror as a result of--or in connection with--the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provided in the resulting contract. This restriction does not limit the Government\u2019s right to use information contained in this data if it is obtained from another source without restriction. The data subject to this restriction are contained in sheets [insert numbers or other identification of sheets]; and \n(2) \nMark each sheet of data it wishes to restrict with the following legend: Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this quote.\u201d \nd. \nThe Government assumes no liability for disclosure or use of unmarked data and may use or disclose the data for any purpose. Unless restricted, information submitted in response to this request may become subject to disclosure to the public pursuant to the provisions of the Freedom of Information Act (5 U.S.C. 552). \ne. \nThis procurement is conducted under the procedures of FAR Subpart 16.5. The policies and procedures of FAR Subpart 15.3 do not apply.",
+                "document_source_page_number": 31
+            },
+            {
+                "id": "25337076826096236307294209693673",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.3 GENERAL INFORMATION",
+                "content": "Quotes shall be valid for a period of 90 calendar days from close of the TOR. \nOfferors must be registered in ASSIST to receive an award. Please complete registration via this link: https://assist.gsa.gov/assist-web/registration/contractor/search",
+                "document_source_page_number": 32
+            },
+            {
+                "id": "25337076834019052558720643453028",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.4 SUBMISSION OF QUESTIONS",
+                "content": "The offeror may submit any questions grouped and referenced by the particular TOR section / subsection number directly to the CO via email at steven.wright@gsa.gov with an informational copy to the Contract Specialist (CS) at amanda.wesson@gsa.gov by 9:00 am PT (Pacific Time) on 03/15/2023. The government\u2019s responses to submitted questions will be provided to all prospective offerors as an amendment to the solicitation. The government may consider any questions received after the stated question due date / time in the solicitation, although at its discretion, and reserves the right to not respond to questions received after the originally stated due date.",
+                "document_source_page_number": 32
+            },
+            {
+                "id": "25337076841941868810147077212382",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.5 SUBMISSION OF OFFERS",
+                "content": "The offer shall be provided to the Government in two parts (each part in separate folders/files): Part I \u2013 Pricing, and Part II \u2013 Technical. Both parts are due and shall be submitted by the location, due date, and time indicated above. Offerors shall not include any pricing data in the Part II \u2013 Technical Quote. \nOfferors must be registered in GSA eBuy to submit a quote. Submissions shall be submitted in electronic format via GSA eBuy with an information copy sent to the CO and CS via email at steven.wright@gsa.gov and amanda.wesson@gsa.gov. \n*** THE DUE DATE OF THE QUOTE IS 9:00 AM PT (PACIFIC TIME) ON \n04/19/2023** \nNo paper (hard copy) quote will be accepted. The quote shall NOT be submitted to any other parties. Any corrupt or unreadable documents shall not be considered for evaluation purposes. Any files not received by the cut-off date and time specified herein shall be deemed late and not considered for evaluation purposes. \nAll electronic files shall be in Microsoft Word, Excel, or .pdf formats. Pages must maintain 1\u201d margins, 12 point Times New Roman font or equal, single spaced and single sided. Unless otherwise specified, pages shall be 8.5\u201dx11\u201d. Charts / Graphics / Tables embedded in the quote \nwill count toward any page limitations. Charts / Graphics / Tables text shall be a minimum of 9 point Times New Roman font, and 11\u201dx17\u201d foldouts may be used when providing tables and charts. 11\u201dx17\u201d foldouts will be counted as two pages where page limitations apply. Headers may be of a larger font. A Title Page, Table of Contents, Cover Letter, List of Figures, and Acronym List (if included) shall be submitted as separate pages within the main quote and are excluded from any maximum page counts. \nAny pages submitted beyond any specified page limitations will be removed and not evaluated.",
+                "document_source_page_number": 32,
+                "subsections": [
+                    {
+                        "id": "25337076849864685061573510971736",
+                        "parent_id": "25337076841941868810147077212382",
+                        "section_type": "instructions",
+                        "title": "L.5.1 PASS/FAIL CRITERIA QUOTE SUBMISSION",
+                        "content": "For the purposes of evaluating the Pass/Fail Technical Quote Criteria as set forth in Section M.2, the offeror shall provide the following information under Part II. Failure to meet the requirements of any single Pass/Fail criterion will make the quote ineligible for award, with no further evaluation of the Technical and Cost/Price quote. The penalty for making false statements in quotes is prescribed in 18 U.S.C. 1001. \nPass/Fail Criteria \na. \nFedRAMP Authorization Status of Grants Management SaaS: The Grants Management SaaS shall be currently Moderate FedRAMP authorized OR currently going through the process of obtaining approval of the FedRAMP authorization with another agency. Any infrastructure or platform to be used to meet the requirements of this task order shall also be currently FedRAMP authorized OR currently going through the process of obtaining approval of the FedRAMP authorization with another agency. \nThe offeror must submit clear and convincing evidence of FedRAMP authorization for the SaaS, as well as any infrastructure or platform to be used to meet the requirements of the task order. Please provide a screenshot of your FedRAMP SaaS in the FedRAMP marketplace as either \u201cApproved\u201d or \u201cIn Process\u201d. \nHowever, if the SaaS is currently going through the FedRAMP authorization process with another agency, the offeror must submit a signed statement to this effect and include contact information for the Government Point of Contact (POC), including name, title, agency, phone number, and email address. The POC may be contacted to confirm the signed statement. The signed statement shall be included in this FedRAMP authorization Pass/Fail element. \nb. \nC-SCRM Questionnaire (Attachment C): The C-SCRM Questionnaire shall be completed and submitted with the quote. Failure to answer all questions will result in a Fail and the quote being ineligible for award. All yes/no questions must be answered in the affirmative to receive a Pass. Further C-SCRM details are in section H.3.2. \nc. \nSection 508 Compliance: The offeror\u2019s written quote shall include a statement, provided at the time of quote submission, indicating its capability to comply with Section 508 requirements throughout its performance of this TO in compliance with Section H.5. \nd. \nMAS Contract -Latest Refresh: The offeror must have accepted Refresh 0015, dated 01/18/2023, for the associated MAS contract. Upon quote submission, the CO will review GSA eLibrary to confirm that Refresh 0015 has been accepted.",
+                        "document_source_page_number": 33
+                    },
+                    {
+                        "id": "25337076857787501312999944731091",
+                        "parent_id": "25337076841941868810147077212382",
+                        "section_type": "instructions",
+                        "title": "L.5.2 PART I \u2013 PRICING",
+                        "content": "Part I contains written pricing information. This volume shall contain: \na. \nSolicitation/Contract/Order for Commercial Items (SF 1449) (Section J, Attachment A) (TAB A) \nb. \nSection B.3 \u2013 Services and Price Schedule (TAB B) \nc. \nPricing Table (Section J, Attachment D) (TAB C) \nd. \nPricing Assumptions, if any (TAB D) \ne. \nExtension Statement under FAR 52.217-8 \u201cOption to Extend Services\u201d (TAB E) \nf. \nPricing Narrative (TAB F) (Not to exceed 3 pages)",
+                        "document_source_page_number": 34
+                    },
+                    {
+                        "id": "25337076865710317564426378490445",
+                        "parent_id": "25337076841941868810147077212382",
+                        "section_type": "instructions",
+                        "title": "L.5.3 PART II \u2013 TECHNICAL",
+                        "content": "Part II contains written technical information and shall contain the following (page limitations, if applicable, are indicated in the parentheses following each item): \na. \nProject Staffing Plan Table (Section J, Attachment E) (TAB A) \nb. \nKey Personnel Qualification Matrix (Section J, Attachment F) (TAB B) (2 pages per individual), including Letters of Commitment (1 additional page) for each Key Individual \nc. \nStaffing Narrative (TAB C) (5 pages maximum) \nd. \nTechnical Approach and Management / Quality Control (TAB D) (8 pages maximum) \ne. \nRelevant Corporate Experience (TAB E) (2 pages per reference maximum) \nf. \nTechnical Assumptions, if any (TAB F) \ng. \nDemonstration of Software (TAB G) \nh. \nAll Pass / Fail Items, see Section L.5.1 above (TAB H)",
+                        "document_source_page_number": 34
+                    }
+                ]
+            },
+            {
+                "id": "25337076873633133815852812249800",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.6 OFFER CONTENTS",
+                "content": "",
+                "document_source_page_number": 34,
+                "subsections": [
+                    {
+                        "id": "25337076881555950067279246009154",
+                        "parent_id": "25337076873633133815852812249800",
+                        "section_type": "instructions",
+                        "title": "L.6.1 PART I \u2013 PRICING",
+                        "content": "The Pricing offer shall contain the following tabs: \na. \nSolicitation/Contract/Order for Commercial Items (SF 1449) (TAB A). The form must be executed and signed by representatives of the offeror authorized to commit the offeror to contractual obligations. Completing and signing the form constitutes the offeror's acceptance of the terms and conditions of the proposed task order. \nb. \nSection B.3 \u2013 Services and Price Schedule (TAB B). The offeror shall indicate the price to be charged for each item in Section B.3. \nc. \nPricing Table (TAB C). The offeror shall provide a completed Pricing Table in accordance with the Pricing Table template (Section J, Attachment D). The submission shall contain all labor categories (both key and non-key) that will be working on this effort in the Support Services CLINs (0001, 1001, 2001, 3001, and 4001), along with the level of effort proposed for each labor category, their base MAS contract hourly rates, discounts offered (if any), and task order hourly rates. For services being proposed under the Software Licensing CLINs (0002, 1002, 2002, 3002, and 4002) whereby the price of the service is already included in the software licensing, this table shall not include those applicable labor categories. \nd. \nPricing Assumptions (TAB D). Offerors must submit under a separate tab, any assumptions, if applicable, upon which the Price Quote is based. \ne. \nExtension Statement under FAR 52.217-8 \u201cOption to Extend Services\u201d (TAB E). The offeror is not being requested to propose a specific price for the potential up to six-month extension provided for under FAR 52.217-8 \u201cOption to Extend Services\u201d, which is incorporated in Section I of the task order. The offeror shall indicate confirmation in its quote, if unilaterally exercised by the Government (for up to six months), that the unit monthly pricing as contained in Section B of the task order for the final option period will remain unchanged during this up to six-month extension period. \nf. \nPricing Narrative (TAB F). The offeror shall provide a Pricing Narrative (not to exceed 3 pages) which describes the services that would be offered under the Support Services CLINs (0001, 1001, 2001, 3001, and 4001) as well as the services under the Software Licensing CLINs (0002, 1002, 2002, 3002, and 4002). The narrative shall differentiate the services being offered under each CLIN.",
+                        "document_source_page_number": 34
+                    },
+                    {
+                        "id": "25337076889478766318705679768508",
+                        "parent_id": "25337076873633133815852812249800",
+                        "section_type": "instructions",
+                        "title": "L.6.2 PART II \u2013 TECHNICAL",
+                        "content": "The Technical offer shall contain the following tabs: \na. \nProject Staffing Plan Table (TAB A). The offeror shall provide a completed Project Staffing Plan in accordance with the Project Staffing Plan Table template (Section J, Attachment E). The submission shall contain all labor categories (both key and non-key) that will be working on this effort in the Support Services CLINs (0001, 1001, 2001, 3001, and 4001). All Key Personnel proposed shall be named in the Project Staffing Plan Table and available to begin work immediately on the project start date. If the names of non-key personnel are not known prior to offer submission, the offeror may indicate \u201cTBD\u201d in the Project Staffing Plan Table. The names of non-key personnel are the only identifiers that may remain unspecified in the Project Staffing Plan Table. The names of all non-key personnel that can be provided should be provided. For services being proposed under the Software Licensing CLINs (0002, 1002, 2002, 3002, and 4002) whereby the service is already included in the software licensing, this table shall not include those applicable labor categories. \nThe experiences, skills, and qualifications in the Project Staffing Plan Table proposed for each named key and non-key personnel shall conform to the actual experiences, skills, and qualifications. \nThe offeror shall ensure there is consistency in Level of Effort between the Staffing Plans provided in Part II and the Price Quotes provided in Part I. \nb. \nKey Personnel Qualification Matrix (KPQM) and Letters of Commitment (TAB B). The offeror shall submit a completed Key Personnel Qualification Matrix (Section J, Attachment F) for each Key Person proposed, specifying the qualifications and experiences of each named Key individual. No resume is required to be submitted for Key Personnel with the offeror's quote. \nEach Key Personnel Qualification Matrix shall be limited to two pages per individual. Offerors may use 9-point font for the KPQM and may use landscape page orientation. \nThe offeror shall also provide a one-page Letter of Commitment for each Key individual, stating the Key Person\u2019s commitment and availability to perform work at the project start date, signed by each proposed Key Person at the quote submission due date. The Letter shall state that (1) the proposed Key Person named is employed by the prime offeror or has an offer of employment from the specified prime offeror that the Key Person intends to accept in the event of an award being made to the offeror and (2) the proposed Key Person is available and committed to begin work on the Project Start Date. The required Letters of Commitment are not included in the page count for the Key Personnel Qualification Matrix. \nc. \nStaffing Narrative (TAB C). The offeror shall provide a Staffing Narrative (not to exceed 5 pages) which describes the firm\u2019s ability to provide the full range of required services (for both the Support Services CLINs and the Software Licensing CLINs) throughout the task order period with the staffing and personnel being proposed. The narrative shall detail the basis and rationale for the labor mix, labor categories, labor hours, and the proposed mix of key and non-key personnel. \nThe narrative shall explain all services that are included in the Software Licensing CLINs and differentiate between those services and the services being provided via the Support Services CLINs. It must be clearly delineated to the Government what services are being provided under each of the two CLINs. Services already included with the Software Licensing CLINs must not be also included within the Support Services CLINs. \nThe offeror shall describe its approach, for both key and non-key positions, to hiring, retaining, and replacing appropriately qualified personnel throughout the life of this task order; and its methodology for maintaining the technical expertise of all personnel. \nThe offeror shall affirmatively state in its quote that any listed experiences, skills, and qualifications for any non-key positions/individuals (named or unnamed) in the Project Staffing Plan, will conform to those experiences, skills, and qualifications that it plans to provide and comply with when filling the applicable non-key positions. Failure to conform \nto the proposed experiences, skills, and qualifications during the hiring process will be considered in the Government\u2019s assessment of contractual remedies it may decide to take after award. \nd. \nTechnical Approach and Management / Quality Control (TAB D). The contractor shall submit a written narrative which shall not exceed 8 pages containing information on how the offeror will facilitate effective communication among all contractor, subcontractor (if applicable), and Government stakeholders. The contractor shall provide an explanation of how it will maintain management control of the project, including oversight of its own employees and/or any subcontractors. The contractor must also explain the methodologies used to maintain management and quality control. \ne. \nRelevant Corporate Experience (TAB E). \nFor each relevant Corporate Experience reference, the offeror shall provide no more than a two (2) page narrative clearly articulating how and why it believes the referenced work is relevant (size, scope, and complexity) to the specific requirements (Grants Management SaaS) the contractor is proposing to accomplish within the requirements of the TOR. Each project must be recent, i.e. completed within the last three (3) years, or currently ongoing with at least one (1) year of the project completed. References not in accordance with these timeframes will not be evaluated. The Prime contractor must submit at least one (1), but no more than three (3), relevant and recent project experiences of their own. No more than a total of two (2) relevant and recent project experiences provided in response to the solicitation may be from subcontractors. [NOTE: the decision to work (or not work) with subcontractors does NOT remove the requirement that the prime contractor must have the GMS SaaS and all applicable labor categories used to support the requirements on their own (prime\u2019s) MAS contract under one of the SINs listed in Section B.3 above.] A subcontractor\u2019s relevant and recent project experience will only be evaluated IF the subcontractor also provides a Letter of Commitment, signed by a company executive on company letterhead, stating the firm is committed to be a subcontractor, at time of award, on this project for the prime contractor submitting the response to the solicitation. If the offeror is proposing a Contractor Team Arrangement (CTA), each prime contractor must submit at least one (1) relevant and recent project experiences of their own applicable to the requirements they would be responsible for meeting under this solicitation. The Government will not review any additional corporate experiences submitted in excess of the above stated limitations. \nProject experiences shall contain information for each project as follows: \n- \nContractor Name/Project Name/Contract Number \n- \nCustomer Point of Contact for project (phone number and email) (the Government reserves the right to contact references and/or project owners to obtain additional clarifying information regarding project relevance or contractor performance) \n- \nProject performance period (include months/years) \n- \nDollar value of the entire project and dollar value of the part of the project relevant to the services being proposed to be performed by that contractor under this project. \n- \nSummary of the project including a clear description of the requirements, and results achieved and the methodology, tools, labor categories, and processes utilized in performing the work \n- \nNarrative clearly articulating how the referenced work is relevant to the specific role within the PWS the contractor is being proposed to be performing \n- \nMajor deliverables produced that relate to the Section C requirements being specifically performed by the provided reference. \nNote: Master contract vehicles, such as GSA Schedules, Blanket Purchase Agreements, and Indefinite Delivery/Indefinite Quantity contracts will not be considered as relevant references, and will not be evaluated. Rather, only specific task orders issued under such vehicles should be submitted for evaluation. \nf. \nTechnical Assumptions (TAB F). The contractor shall identify and address any assumptions affecting the technical quote citing the component(s) of the quote to which they pertain. All technical assumptions and basis of estimate assumptions shall be included in the technical volume. This shall include any non-price information that serves as the basis of a price assumption identified in the contractor\u2019s price quote. The Government reserves the right to reject any quote that includes any assumption that adversely impacts the Government\u2019s requirements. \ng. \nDemonstration of Software (TAB G). The offeror shall provide a demonstration of the proposed software, which shall be recorded and uploaded to YouTube.com via the link provided in Tab G. This video shall be available to the Government for no less than six months from the date that quotes are due (see Section L.5 above). (.MP4, .wmv, .avi and all other video files will not be accepted.) The video length shall not exceed 60 minutes. The video shall include a step-by-step demonstration of the main functions of the following: \n\u25cb \nThe reimbursement tab/screen; \n\u25cb \nThe interface that tracks application completeness; \n\u25cb \nThe dashboards for reporting on different program spending/grantmaking totals; \n\u25cb \nThe interface where a grantee would submit documents or application information; \n\u25cb \nThe visual of how communications happen within the system. \n\u25cb \nHow to develop a grant application (from Government/NBRC\u2019s perspective) \nThe video demonstration of the software will be used to assess the offeror\u2019s capability to satisfy the requirements set forth in the TOR. Following the demonstration of the software, the Government may -but is not required to-submit written questions to the offeror, as deemed prudent, to clarify the offeror\u2019s proposed capabilities, methodologies, and approaches. The Government intends to ask clarifying questions as may be useful for the evaluators to sufficiently understand what is being proposed. \nThe offeror shall restrict the privacy settings for the demonstration video at YouTube.com. The privacy setting shall be Private (not Public or Unlisted) with access provided only to the Contracting Officer and the Contract Specialist (email addresses listed in Section L.5 above). It is the responsibility of the offeror to ensure the privacy of the video. The Government may request that the contractor add additional email addresses after the solicitation closes. If additional email addresses are requested, the offeror shall provide access within two (2) business days \nh. \nAll Pass / Fail Items (TAB H): All pass / fail criteria from section L.5.1 shall be included in Tab H.",
+                        "document_source_page_number": 35
+                    }
+                ]
+            },
+            {
+                "id": "25337076897401582570132113527863",
+                "parent_id": "27141408675766516722970176742807",
+                "section_type": "instructions",
+                "title": "L.7 IN-DEPTH FEEDBACK THROUGH OPEN REPORTING METHODS (INFORM)",
+                "content": "",
+                "document_source_page_number": 39,
+                "subsections": [
+                    {
+                        "id": "25337076905324398821558547287217",
+                        "parent_id": "25337076897401582570132113527863",
+                        "section_type": "instructions",
+                        "title": "A. Overview of the IN-depth Feedback through Open Reporting Methods (INFORM) Process",
+                        "content": "This solicitation is part of GSA\u2019s post award communication process called INFORM. The process is designed to enhance the quality and usefulness of post-award communications by providing greater transparency and openness into the procurement process. INFORM seeks to increase GSA-industry communication by providing clearer and more complete information to explain the award decision. \nThrough the INFORM process, GSA will seek to share additional information with offerors in writing and/or through an oral feedback meeting1 that is not required by statute or regulation. For purposes of this solicitation, and in addition to any information required by FAR Part 8.405-2(d), GSA is providing each offeror with the opportunity to participate in the INFORM process as further discussed below. The additional opportunities set forth in this section do NOT constitute a debriefing or required \ndebriefing pursuant to FAR 15.506. This is a procurement being conducted pursuant to FAR Part 8 and, accordingly, any regulatory notification of award and a brief explanation of the basis for the award decision are specified at FAR 8.405-2(d). \n1 The oral feedback meeting may be held in person or via an electronic means.",
+                        "document_source_page_number": 39
+                    },
+                    {
+                        "id": "25337076913247215072984981046572",
+                        "parent_id": "25337076897401582570132113527863",
+                        "section_type": "instructions",
+                        "title": "B. Detailed Description of the INFORM Process",
+                        "content": "",
+                        "document_source_page_number": 40,
+                        "subsections": [
+                            {
+                                "id": "25337076921170031324411414805926",
+                                "parent_id": "25337076913247215072984981046572",
+                                "section_type": "instructions",
+                                "title": "B.1. Component 1 -Notification of Award",
+                                "content": "After award and in accordance with any post-award notification timeframes required by regulation (i.e., FAR Part 8.405-2), the contracting officer will issue written notices to the successful and unsuccessful offerors (the Notification Letter and Evaluation Statement (NLES)). The notices will contain: \n\u25cf \nAll information required by statute or regulation; \n\u25cf \nAn unredacted copy of the complete technical evaluation for that particular offeror that includes a full description of the unsuccessful offeror\u2019s strengths, weaknesses, risks, and deficiencies; \n\u25cf \nAn overall technical evaluation summary for that particular offeror and the successful offeror that includes evaluated price; overall technical ranking, rating, or score.",
+                                "document_source_page_number": 40
+                            },
+                            {
+                                "id": "25337076929092847575837848565280",
+                                "parent_id": "25337076913247215072984981046572",
+                                "section_type": "instructions",
+                                "title": "B.2. Component 2 -Request for Oral Feedback Meeting or Written Questions",
+                                "content": "Within three business days after receipt of the NLES, an offeror may, but is not required to: \n\u25cf \nSubmit a written request to the contracting officer for an oral feedback meeting; \n\u25cf \nSubmit a list of written questions to the contracting officer; or, \n\u25cf \nTake no further action. \nIf an offeror does not request an oral feedback meeting or submit a list of written questions within the three day time period, the INFORM process is concluded. \nIf the offeror submits a list of written questions in lieu of the oral feedback meeting, the contracting officer will attempt to respond within five business days of receipt of the written questions. Unless otherwise stated, the contracting officer\u2019s response to the written questions will conclude the INFORM process. \nIf the offeror requests an oral feedback meeting, the offeror should provide the following information: \n\u25cf \nPrimary point of contact; \n\u25cf \nList of participants with titles (e.g., Senior Vice President); \n\u25cf \nList of topics to assist GSA better prepare for the oral feedback meeting; and, \n\u25cf \nPreference for in-person, telephone, or web-based conferencing (if available). \nThe contracting officer will make every effort to schedule the oral feedback meeting within five business days of the offeror\u2019s receipt of the notification of award.",
+                                "document_source_page_number": 40
+                            },
+                            {
+                                "id": "25337076937015663827264282324635",
+                                "parent_id": "25337076913247215072984981046572",
+                                "section_type": "instructions",
+                                "title": "B.3. Component 3 -Oral Feedback Meeting",
+                                "content": "During the oral feedback meeting, GSA\u2019s objectives are to provide: \n\u25cf \nReasonable responses to written questions submitted by the offeror; \n\u25cf \nCohesive explanations for the evaluation conclusions and contract award decisions; \n\u25cf \nAny additional information about the fairness and impartiality of the evaluation and whether the award decision was rational; \n\u25cf \nReasonable responses to additional questions raised during the meeting; \n\u25cf \nAdditional transparency into the underlying competition process; and, \n\u25cf \nA greater understanding of the evaluation and award process. \nGSA will not provide any information that is prohibited by law or regulation.",
+                                "document_source_page_number": 41
+                            },
+                            {
+                                "id": "25337076944938480078690716083989",
+                                "parent_id": "25337076913247215072984981046572",
+                                "section_type": "instructions",
+                                "title": "B.4. Component 4 -Post Oral Feedback Meeting Questions",
+                                "content": "Within two business days after the conclusion of the oral feedback meeting, the offeror may submit a list of written questions to the contracting officer. The contracting officer will provide a written response within five business days and, unless otherwise noted, the INFORM process is concluded. \nIf the offeror elects not to submit a list of written questions within two business days after the oral feedback meeting, the INFORM process is concluded.",
+                                "document_source_page_number": 41
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "25337076952861296330117149843344",
+        "parent_id": "",
+        "section_type": "evaluation_criteria",
+        "title": "SECTION M \u2013 EVALUATION FACTORS FOR AWARD",
+        "content": "",
+        "document_source_page_number": 42,
+        "subsections": [
+            {
+                "id": "25337076960784112581543583602698",
+                "parent_id": "25337076952861296330117149843344",
+                "section_type": "evaluation_criteria",
+                "title": "M.1 METHOD OF AWARD",
+                "content": "A TO will be awarded to the offeror whose quote is the most advantageous to the Government, price and other factors considered. The four pass/fail elements listed in section L.5.1 will be evaluated first. Technical quotes that are in compliance with the pass/fail elements will then be evaluated based on the following factors: 1) Demonstration of Software, 2) Technical Approach and Quality Control, and 3) Relevant Corporate Experience. Factors 1, 2, and 3 are listed in order of importance, with Factor 1 considered to be the most important and Factor 3 considered to be the least important. \nAll evaluation factors other than cost or price, when combined, are significantly more important than cost. Award may be made to other than the lowest price technically acceptable quote. \nThis acquisition is being conducted under FAR 8.4. Principles and procedures of Subpart 15.3 do not apply. Accordingly, the Government may: \na. \nAward on initial quotes, without exchanges. \nb. \nAsk clarification questions. Government may have communications with some\u2014, but not all\u2014, offerors, or about some\u2014but not all\u2014quote sections. The Government may ask questions and receive responses without allowing quote revisions. \nc. \nEngage in exchanges with offerors regarding some aspects of the price and/or technical package. The Government may request proposal revisions in accordance with the exchanges. The Government may waive informalities and minor irregularities in offers received. \nd. \nAfter an offeror has been selected for an award based upon the comparative evaluation, the Government may negotiate a final reduced price. \nQuotes shall set forth full, accurate, and complete information as required by this solicitation package (including Attachments). The penalty for making false statements in quotes is prescribed in 18 U.S.C. 1001.",
+                "document_source_page_number": 42
+            },
+            {
+                "id": "25337076968706928832970017362052",
+                "parent_id": "25337076952861296330117149843344",
+                "section_type": "evaluation_criteria",
+                "title": "M.2 PASS/FAIL ELEMENTS",
+                "content": "The Government will evaluate the pass/fail elements as stated in Section L.5.1 above. A failure on any single Pass/Fail criteria will make the quote ineligible for award, with no further evaluation of the technical and cost quote conducted by the Government.",
+                "document_source_page_number": 42
+            },
+            {
+                "id": "25337076976629745084396451121407",
+                "parent_id": "25337076952861296330117149843344",
+                "section_type": "evaluation_criteria",
+                "title": "M.3 TECHNICAL EVALUATION FACTORS 1, 2 AND 3",
+                "content": "The technical package will be evaluated using comparative evaluation. This will be conducted by comparing quotes to each other (comparative analysis) and selecting the contractor that is best suited and provides the best value, considering the evaluation factors in this solicitation. \nThe following evaluation factors in the table are listed in descending order of importance. \n\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Evaluation Factor</th>\n      <th>Description</th>\n      <th>How Factors Will Be Evaluated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Evaluation Factor 1</td>\n      <td>Demonstration of Software</td>\n      <td>-Video is accessible and in correct format -Video includes all functions listed above in Section L.6.2(g)</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>-Software user friendliness -Software functionality and applicability to NBRC requirements</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Evaluation Factor 2</td>\n      <td>Technical Approach and Quality Control</td>\n      <td>-Sufficiently demonstrates the offeror\u2019s ability to effectively and efficiently perform all requirements and tasks -All elements listed above in Section L.6.2(a)(b)(c)(d) and (f) have been sufficiently addressed</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Evaluation Factor 3</td>\n      <td>Relevant Corporate Experience</td>\n      <td>-Projects are relevant (size, scope, and complexity) to Grants Management software requirements -Projects are recent (current or completed within last three years) -All elements of Section L.6.2(e) have been sufficiently addressed</td>\n    </tr>\n  </tbody>\n</table>",
+                "document_source_page_number": 42
+            },
+            {
+                "id": "25337076984552561335822884880761",
+                "parent_id": "25337076952861296330117149843344",
+                "section_type": "evaluation_criteria",
+                "title": "M.4 COST/PRICE QUOTE EVALUATION",
+                "content": "The offeror\u2019s cost quote (Section L.6.1 above) will be evaluated to determine the price as fair and reasonable. The six-month extension period, authorized by FAR clause 52.217-8, will not be included in the total evaluated cost; however, it will be evaluated to ensure that the option is available for the unilateral exercise of the Government should an extension become necessary. The offeror shall not propose a separate price for the six-month extension. \nPrice will be evaluated as to fair and reasonableness. The Government will take into consideration any unbalanced pricing. An overall price that is excessively high (without sufficient justification) may be considered unreasonable and may receive no further consideration. The Government intends to issue an award without engaging in exchanges. Consequently, the contractor is highly encouraged to provide their best offer with the initial submission. However, the Government reserves the right to hold exchanges if it is determined advantageous to the Government to do so. This statement is not to be construed to mean that the Government is obligated to conduct such conversation with the contractor.",
+                "document_source_page_number": 43
+            },
+            {
+                "id": "25337076992475377587249318640116",
+                "parent_id": "25337076952861296330117149843344",
+                "section_type": "evaluation_criteria",
+                "title": "M.5 TECHNICAL ASSUMPTIONS",
+                "content": "Offeror assumptions will be reviewed in the context of the technical factor to which they apply. The Government reserves the right to reject any quote that includes any assumption that may adversely impact satisfying the Government\u2019s requirements. \nDisclosure and awareness of any current, past, or known imminent future projects that would result in an organizational conflict of interest as identified in FAR Subpart 9.5 (If an actual or potential organizational conflict of interest is believed to exist, a mitigation plan in accordance with FAR Subpart 9.5 shall be submitted for government review and approval.)",
+                "document_source_page_number": 43
+            }
+        ]
+    }
+]
