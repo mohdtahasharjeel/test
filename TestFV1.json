@@ -1,0 +1,719 @@
+{
+    "flight_plan_json":{
+        "blueteam_inputs": {
+            "company_info": {
+                "items": [
+                    {
+                        "name": "company_name",
+                        "value": "Applied info science"
+                    },
+                    {
+                        "name": "acronym",
+                        "value": "AIS"
+                    },
+                    {
+                        "name": "summary",
+                        "value": "AIS (Applied Information Sciences) specializes in IT transformation for large commercial and federal enterprises, delivering compliant and transformative cloud and data solutions that speed up time to value, sunset legacy technology, and accelerate innovation. Our expertise lies in the highly regulated environments leading migration and modernization, DevSecOps, security and compliance, custom app development, and data intelligence."
+                    },
+                    {
+                        "name": "full_description",
+                        "value": "AIS (Applied Information Sciences) specializes in IT transformation for large commercial and federal enterprises, delivering compliant and transformative cloud and data solutions that speed up time to value, sunset legacy technology, and accelerate innovation. Our expertise lies in the highly regulated environments leading migration and modernization, DevSecOps, security and compliance, custom app development, and data intelligence. Our customers include a broad range of organizations, from start-ups to Fortune 100 companies, and include state and local governments as well as defense and national security agencies. Our analysis-driven approach to solving business problems—combined with our commitment to deadlines and budgets—results in successful projects and long-term relationships with our clients. \n\nWe're a leading Microsoft cloud partner with proven capabilities and a track record of success, holding 7 Advanced Specializations, 15 competencies, and Solutions Partner Designations for Infrastructure, Digital & App Innovation, Data & AI, Security, and Modern Work. Founded in 1982, we are headquartered in Reston, Virginia, with regional offices across the US and a development center in Hyderabad, India. AIS employs a transatlantic distributed employee base of 1,000. \n\n• ISO 9001:2015 Certified Quality Management System \n• ISO 27001:2013 Information Technology Security \n• CMMI Level III \n• AICPA SOC II Type 2 \n• Microsoft Gold Certified (15 competencies) \n• Microsoft Advanced Specialization for Windows SQL Server \n• 2018 Microsoft Azure Partner of the Year \n• 2019 Microsoft Partner of the Year for Dynamics for Sales \n• 2020 Microsoft Partner of the Year for Power Apps & Power Automate \n• Proven ability transforming customers into a cloud-first, software-led organization \n• First to establish cloud environments and ATO at Impact Level (IL) 5 and IL6 \n• Hundreds of personnel ready to deliver innovation \n• Global 24/7/365 Managed Service Offering"
+                    }
+                ]
+            },
+            "pain_points": {
+                "items": [
+                    "Pain Points (one per row)"
+                ]
+            },
+            "win_themes": {
+                "items": [
+                    "win theme 1"
+                ]
+            }
+        },
+        "document_info": {
+            "request_id": "TEST OPM BPACO",
+            "id": "7b3f6286-f2ca-4fbc-86b0-a27dd8f42e92",
+            "name": "",
+            "description": "",
+            "creation_time": "2024-02-28T12:57:46.6518427+00:00",
+            "modification_time": "2024-02-28T12:57:46.6518452+00:00"
+        },
+        "response_sections": [
+            {
+                "section_type_name": "executive_summary",
+                "section_number": "1.1000000000000001",
+                "section_title": "Executive Summary",
+                "section_type": 10,
+                "subsections": [],
+                "request_sections": [
+                    {
+                        "section_id": "13966200758203954945389158401327",
+                        "section_title": "1. Background and Scope"
+                    }
+                ],
+                "generation_layers": [
+                    {
+                        "type": "solution",
+                        "context": "Executive Summary Solution goes here.",
+                        "context_name": "Executive Summary Solution context name",
+                        "instructions": "Executive Summary Solution instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "infusion",
+                        "context": "Executive Summary Infusion goes here.",
+                        "context_name": "Executive Summary Infusion context name",
+                        "instructions": "Executive Summary Infusion instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "default-infusion",
+                        "improve-solution": 1,
+                        "capabilities": 1,
+                        "pain-points": 1,
+                        "win-themes": 1,
+                        "proof-points": 1
+                    },
+                    {
+                        "type": "refinement",
+                        "instructions": "Executive Summary Refinement goes here.",
+                        "context": "Executive Summary Refinement context name",
+                        "context_name": "Executive Summary Refinement instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "break_paragraphs",
+                        "n_words": 150,
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reading_level",
+                        "level": 8,
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "active_voice",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "pws_format",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reduce_subsections",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "merge_paragraphs",
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "template",
+                        "template": "similar-responses",
+                        "allow_subsections": false
+                    }
+                ]
+            },
+            {
+                "section_type_name": "tasks_introduction",
+                "section_number": "1.9",
+                "section_title": "Technical Approach",
+                "section_type": 51,
+                "subsections": [
+                    {
+                        "section_type_name": "tasks_introduction",
+                        "section_number": "2.1",
+                        "section_title": "Task 1: Project Management Services",
+                        "section_type": 51,
+                        "subsections": [],
+                        "generation_layers": [
+                            {
+                                "type": "solution",
+                                "context": "Task 1 Solution goes here.",
+                                "context_name": "Task 1 Solution context name",
+                                "instructions": "Task 1 Solution instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "infusion",
+                                "context": "Task 1 Infusion goes here.",
+                                "context_name": "Task 1 Infusion context name",
+                                "instructions": "Task 1 Infusion instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "default-infusion",
+                                "improve-solution": 1,
+                                "capabilities": 1,
+                                "pain-points": 1,
+                                "win-themes": 1,
+                                "proof-points": 1
+                            },
+                            {
+                                "type": "refinement",
+                                "instructions": "Task 1 Refinement goes here.",
+                                "context": "Task 1 Refinement context name",
+                                "context_name": "Task 1 Refinement instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "break_paragraphs",
+                                "n_words": 150,
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "reading_level",
+                                "level": 8,
+                                "temperature": 0.2
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "active_voice",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "pws_format",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "reduce_subsections",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "merge_paragraphs",
+                                "temperature": 0.2
+                            },
+                            {
+                                "type": "completion-check",
+                                "iterations": 1
+                            }
+                        ],
+                        "request_sections": [
+                            {
+                                "section_id": "",
+                                "section_title": "5.1 Task 1: Project Management Services"
+                            }
+                        ]
+                    },
+                    {
+                        "section_type_name": "task_individual",
+                        "section_number": "2.1.1",
+                        "section_title": "Senior Project Manager",
+                        "section_type": 52,
+                        "subsections": [
+                            {
+                                "section_type_name": "task_individual",
+                                "section_number": "2.2",
+                                "section_title": "Task 2: Enterprise Technical Engineering and Consulting Services",
+                                "section_type": 52,
+                                "subsections": [],
+                                "generation_layers": [
+                                    {
+                                        "type": "solution",
+                                        "context": "Task 2 Solution goes here.",
+                                        "context_name": "Task 2 Solution context name",
+                                        "instructions": "Task 2 Solution instructions",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "infusion",
+                                        "context": "Task 2 Infusion goes here.",
+                                        "context_name": "Task 2 Infusion context name",
+                                        "instructions": "Task 2 Infusion instructions",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "instructions": "Task 2 Refinement goes here.",
+                                        "context": "Task 2 Refinement context name",
+                                        "context_name": "Task 2 Refinement instructions",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "break_paragraphs",
+                                        "n_words": 150,
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "reading_level",
+                                        "level": 8,
+                                        "temperature": 0.2
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "active_voice",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "pws_format",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "reduce_subsections",
+                                        "temperature": 0.0
+                                    },
+                                    {
+                                        "type": "refinement",
+                                        "function": "merge_paragraphs",
+                                        "temperature": 0.2
+                                    }
+                                ],
+                                "request_sections": [
+                                    {
+                                        "section_id": "",
+                                        "section_title": "5.2 Task 2: Enterprise Technical Engineering and Consulting Services"
+                                    }
+                                ]
+                            }
+                        ],
+                        "generation_layers": [
+                            {
+                                "type": "solution",
+                                "context": "Subtask 1 Solution goes here.",
+                                "context_name": "Subtask 1 Solution context name",
+                                "instructions": "Subtask 1 Solution instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "infusion",
+                                "context": "Subtask 1 Infusion goes here.",
+                                "context_name": "Subtask 1 Infusion context name",
+                                "instructions": "Subtask 1 Infusion instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "default-infusion",
+                                "improve-solution": 1,
+                                "capabilities": 1,
+                                "pain-points": 1,
+                                "win-themes": 1,
+                                "proof-points": 1
+                            },
+                            {
+                                "type": "refinement",
+                                "instructions": "Subtask 1 Refinement goes here.",
+                                "context": "Subtask 1 Refinement context name",
+                                "context_name": "Subtask 1 Refinement instructions",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "break_paragraphs",
+                                "n_words": 150,
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "reading_level",
+                                "level": 8,
+                                "temperature": 0.2
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "active_voice",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "pws_format",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "reduce_subsections",
+                                "temperature": 0.0
+                            },
+                            {
+                                "type": "refinement",
+                                "function": "merge_paragraphs",
+                                "temperature": 0.2
+                            },
+                            {
+                                "type": "template",
+                                "template": "similar-responses",
+                                "allow_subsections": false
+                            },
+                            {
+                                "type": "completion-check",
+                                "iterations": 1
+                            }
+                        ],
+                        "request_sections": [
+                            {
+                                "section_id": "",
+                                "section_title": "hihi"
+                            }
+                        ]
+                    }
+                ],
+                "request_sections": [
+                    {
+                        "section_id": "13966200789895219951094893438744",
+                        "section_title": "5. Summary of Requirements"
+                    }
+                ],
+                "generation_layers": [
+                    {
+                        "type": "solution",
+                        "context": "Technical Approach Solution goes here.",
+                        "context_name": "Technical Approach Solution context name",
+                        "instructions": "Technical Approach Solution instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "infusion",
+                        "context": "Technical Approach Infusion goes here.",
+                        "context_name": "Technical Approach Infusion context name",
+                        "instructions": "Technical Approach Infusion instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "default-infusion",
+                        "improve-solution": 1,
+                        "capabilities": 1,
+                        "pain-points": 1,
+                        "win-themes": 1,
+                        "proof-points": 1
+                    },
+                    {
+                        "type": "refinement",
+                        "instructions": "Technical Approach Refinement goes here.",
+                        "context": "Technical Approach Refinement context name",
+                        "context_name": "Technical Approach Refinement instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "break_paragraphs",
+                        "n_words": 150,
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reading_level",
+                        "level": 8,
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "active_voice",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "pws_format",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reduce_subsections",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "merge_paragraphs",
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "template",
+                        "template": "similar-responses",
+                        "allow_subsections": false
+                    },
+                    {
+                        "type": "completion-check",
+                        "iterations": 1
+                    }
+                ]
+            },
+            {
+                "section_type_name": "transition_plan",
+                "section_number": "3.0",
+                "section_title": "Staffing Plan",
+                "section_type": 77,
+                "subsections": [],
+                "request_sections": [
+                    {
+                        "section_id": "",
+                        "section_title": "12.4 Staffing Plan"
+                    }
+                ],
+                "generation_layers": [
+                    {
+                        "type": "solution",
+                        "context": "Staffing Plan Solution goes here.",
+                        "context_name": "Staffing Plan Solution context name",
+                        "instructions": "Staffing Plan Solution instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "infusion",
+                        "context": "Staffing Plan Infusion goes here.",
+                        "context_name": "Staffing Plan Infusion context name",
+                        "instructions": "Staffing Plan Infusion instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "default-infusion",
+                        "improve-solution": 1,
+                        "capabilities": 1,
+                        "pain-points": 1,
+                        "win-themes": 1,
+                        "proof-points": 1
+                    },
+                    {
+                        "type": "refinement",
+                        "instructions": "Staffing Plan Refinement goes here.",
+                        "context": "Staffing Plan Refinement context name",
+                        "context_name": "Staffing Plan Refinement instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "break_paragraphs",
+                        "n_words": 150,
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reading_level",
+                        "level": 8,
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "active_voice",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "pws_format",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reduce_subsections",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "merge_paragraphs",
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "template",
+                        "template": "similar-responses",
+                        "allow_subsections": false
+                    },
+                    {
+                        "type": "completion-check",
+                        "iterations": 1
+                    }
+                ]
+            },
+            {
+                "section_type_name": "past_performance",
+                "section_number": "3.1",
+                "section_title": "Management Approach",
+                "section_type": 90,
+                "subsections": [
+                    {
+                        "section_type_name": "past_performance_general",
+                        "section_number": "3.1.1",
+                        "section_title": "Relevant Experience Introduction",
+                        "section_type": 91,
+                        "subsections": [],
+                        "generation_layers": [],
+                        "request_sections": []
+                    },
+                    {
+                        "section_type_name": "past_performance_client",
+                        "section_number": "3.1.2",
+                        "section_title": "Air Force: DIscovery Data Platform",
+                        "section_type": 92,
+                        "client_name": "Air Force",
+                        "project_name": "DIscovery Data Platform",
+                        "subsections": [],
+                        "generation_layers": [],
+                        "request_sections": []
+                    },
+                    {
+                        "section_type_name": "past_performance_client",
+                        "section_number": "3.1.3",
+                        "section_title": "Air Force: USAF Comprehensive Planning Platform (CPP)",
+                        "section_type": 92,
+                        "client_name": "Air Force",
+                        "project_name": "USAF Comprehensive Planning Platform (CPP)",
+                        "subsections": [],
+                        "generation_layers": [],
+                        "request_sections": []
+                    },
+                    {
+                        "section_type_name": "past_performance_client",
+                        "section_number": "3.1.4",
+                        "section_title": "Army: USAF Comprehensive Planning Platform (CPP) - 1",
+                        "section_type": 92,
+                        "client_name": "Army",
+                        "project_name": "USAF Comprehensive Planning Platform (CPP) - 1",
+                        "subsections": [],
+                        "generation_layers": [],
+                        "request_sections": []
+                    }
+                ],
+                "request_sections": [
+                    {
+                        "section_id": "",
+                        "section_title": "12.5 Management Approach"
+                    }
+                ],
+                "generation_layers": []
+            },
+            {
+                "section_type_name": "quality_plan",
+                "section_number": "3.1.1",
+                "section_title": "Past Performance",
+                "section_type": 75,
+                "subsections": [],
+                "request_sections": [
+                    {
+                        "section_id": "",
+                        "section_title": "12.2 Key Personnel Experience"
+                    }
+                ],
+                "generation_layers": [
+                    {
+                        "type": "solution",
+                        "context": "Past Performance Solution goes here.",
+                        "context_name": "Past Performance Solution context name",
+                        "instructions": "Past Performance Solution instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "infusion",
+                        "context": "Past Performance Infusion goes here.",
+                        "context_name": "Past Performance Infusion context name",
+                        "instructions": "Past Performance Infusion instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "default-infusion",
+                        "improve-solution": 1,
+                        "capabilities": 1,
+                        "pain-points": 1,
+                        "win-themes": 1,
+                        "proof-points": 1
+                    },
+                    {
+                        "type": "refinement",
+                        "instructions": "Past Performance Refinement goes here.",
+                        "context": "Past Performance Refinement context name",
+                        "context_name": "Past Performance Refinement instructions",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "break_paragraphs",
+                        "n_words": 150,
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reading_level",
+                        "level": 8,
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "active_voice",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "pws_format",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "reduce_subsections",
+                        "temperature": 0.0
+                    },
+                    {
+                        "type": "refinement",
+                        "function": "merge_paragraphs",
+                        "temperature": 0.2
+                    },
+                    {
+                        "type": "template",
+                        "template": "similar-responses",
+                        "allow_subsections": false
+                    },
+                    {
+                        "type": "completion-check",
+                        "iterations": 1
+                    }
+                ]
+            },
+            {
+                "section_type_name": "transition_plan",
+                "section_number": "5.1",
+                "section_title": "Past Performance temp",
+                "section_type": 77,
+                "subsections": [
+                    {
+                        "section_type_name": "transition_plan",
+                        "section_number": "5.2",
+                        "section_title": "Past Performance tri",
+                        "section_type": 77,
+                        "subsections": [],
+                        "generation_layers": [],
+                        "request_sections": [
+                            {
+                                "section_id": "",
+                                "section_title": "12.2 Key Personnel Experience"
+                            }
+                        ]
+                    }
+                ],
+                "request_sections": [
+                    {
+                        "section_id": "",
+                        "section_title": "12.2 Key Personnel Experience"
+                    }
+                ],
+                "generation_layers": []
+            }
+        ],
+        "configuration": {
+            "search_exec_summary_top_n": 2,
+            "search_exec_summary_threshold": 0.75,
+            "search_task_proof_points_top_n": 3,
+            "search_task_proof_points_threshold": 0.83,
+            "search_task_capabilities_top_n": 3,
+            "search_task_capabilities_threshold": 0.83,
+            "search_task_responses_top_n": 1,
+            "search_task_responses_threshold": 0.83,
+            "search_task_responses_base_layer_top_n": 2,
+            "search_task_responses_base_layer_threshold": 0.8,
+            "max_no_of_tasks_to_map_each_win_theme": 2,
+            "max_no_of_win_themes_to_map_each_task": 0,
+            "max_no_of_tasks_to_map_each_pain_point": 2,
+            "max_no_of_pain_points_to_map_each_task": 0
+        }
+    }
+}
