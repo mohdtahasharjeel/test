@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "3322100f-5615-4063-b536-15d6595538f4",
+		"name": "RFPIO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "20228451"
+	},
+	"item": [
+		{
+			"name": "Search",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "a-349d88b98c990bd9294f360be7854b94"
+					}
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\r\n  \"idsList\": [],\r\n  \"limit\": 1,\r\n  \"metadata\": true,\r\n  \"cursor\": \"\"\r\n  \r\n  \r\n \r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://msft.rfpio.com/rfpserver/ext/v1/answer-lib/search"
+			},
+			"response": []
+		}
+	]
+}
